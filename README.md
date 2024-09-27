@@ -2,8 +2,8 @@
 <head>
 <style>
 body {background-color: lemonchiffon;}
-h3   {color: white;}
-p    {color: white;}
+h3   {color: black;}
+p    {color: black;}
 </style>
 </head>
 <body>
