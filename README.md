@@ -12,7 +12,7 @@ p    {color: black;}
   Everything written in this page is of personal matter of the owner like stories, hobbies and spiritual belief<br>
   It does not intend to harm any cultural race, group of people, organization and/or any religious group</p>
   <h3>About Me</h3>
-  <img src="https://github.com/foxlily95/Jehan-Personal-Space/blob/main/457699194_865658668995187_7061818248275211889_n.jpg" width="400" height="500" alt="Jim and Jehan">
+  <img src="https://github.com/foxlily95/Jehan-Personal-Space/blob/main/457699194_865658668995187_7061818248275211889_n.jpg" width="400" height="550" alt="Jim and Jehan">
   <h3>About God</h3>    
   </body>  
 </html>
