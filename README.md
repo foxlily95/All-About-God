@@ -1,9 +1,9 @@
 <html>
 <head>
 <style>
-body {background-color: powderblue;}
-h3   {color: black;}
-p    {color: black;}
+body {background-color: tomato;}
+h3   {color: white;}
+p    {color: white;}
 </style>
 </head>
 <body>
