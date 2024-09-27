@@ -2,7 +2,7 @@
 <head>
 <style>
 body {background-color: powderblue;}
-h1   {color: blue;}
+h3   {color: black;}
 p    {color: black;}
 </style>
 </head>
@@ -11,7 +11,7 @@ p    {color: black;}
   <p>It's not created to promote or sell any product or services</p>
   <p>Everything twritten in this page is of personal matter of the owner like stories, hobbies and spiritual belief</p>
   <p>It does not intend to harm any cultural race, group of people, organization and/or any religious group</p>
-  <h1>About Me</h1>
-  <h1>About God</h1>    
+  <h3>About Me</h3>
+  <h3>About God</h3>    
   </body>  
 </html>
