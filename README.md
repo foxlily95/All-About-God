@@ -20,7 +20,7 @@ p    {color: black;}
     <tr>
       <td>
       <h3>About Me</h3>
-      <img src="https://github.com/foxlily95/Jehan-Personal-Space/blob/main/457699194_865658668995187_7061818248275211889_n.jpg" width="400" height="550" alt="Jim and Jehan">
+      <img src="457699194_865658668995187_7061818248275211889_n.jpg" width="400" height="550" alt="Jim and Jehan">
       </td>
      </tr>
      <tr>
