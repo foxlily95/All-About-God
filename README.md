@@ -11,7 +11,9 @@ div  {background-color: #eceed6;}
 <body>
 
  <div>
-       
+   <div>
+    <img src="Screenshot 2024-10-02 230004.png" width="600" height="400" alt="Nature">
+   </div>
    <div>
        <h3>
         Introduction
