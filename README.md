@@ -25,7 +25,7 @@ tr   {border-bottom: 1.5px solid #ddd;
     <tr>
       <td>
       <h3>About Us</h3>
-      <img src="457699194_865658668995187_7061818248275211889_n.jpg" width="200" height="250" alt="Jim and Jehan">
+      <img src="457699194_865658668995187_7061818248275211889_n.jpg" width="400" height="550" alt="Jim and Jehan">
       </td>
       
      </tr>
