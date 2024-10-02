@@ -4,10 +4,10 @@
 body {background-color: lemonchiffon;}
 h3   {color: black;}
 p    {color: black;}
-table{background-color: #eceed6;}
+/*table{background-color: #eceed6;}
 tr   {border-bottom: 1.5px solid #ddd;
      background-color: #eceed6;
-     /*tr:hover {background-color: #d6eeec;*/}
+     tr:hover {background-color: #d6eeec;*/}
 </style>
 </head>
 <body>
