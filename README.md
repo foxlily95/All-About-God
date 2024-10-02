@@ -23,8 +23,11 @@ tr   {border-bottom: 1.5px solid #ddd;
     </tr>
     <tr>
       <td>
-      <h3>About Me</h3>
-      <img src="457699194_865658668995187_7061818248275211889_n.jpg" width="400" height="550" alt="Jim and Jehan">
+      <h3>About Us</h3>
+      <img src="457699194_865658668995187_7061818248275211889_n.jpg" width="200" height="350" alt="Jim and Jehan">
+      </td>
+      <td>
+           <p>Sample Description..</p>
       </td>
      </tr>
      <tr>
