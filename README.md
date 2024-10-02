@@ -35,6 +35,7 @@ div  {background-color: #eceed6;}
         <h3>
         About God
         </h3>   
+        <img src="photo-1503919483171-9ffc1debc390.jpg">
    </div>
      
     
