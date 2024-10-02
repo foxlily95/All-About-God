@@ -12,7 +12,7 @@ div  {background-color: #eceed6;}
 
  <div>
    <div>
-    <img src="Screenshot 2024-10-02 230004.png" width="1000" height="400" alt="Nature">
+    <img src="Screenshot 2024-10-02 230004.png" width="1000" height="380" alt="Nature">
    </div>
    <div>
        <h3>
