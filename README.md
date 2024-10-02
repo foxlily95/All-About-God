@@ -49,7 +49,7 @@ li   {display: inline;}
      
    <div>
         <h3>
-        About God
+        Who is God in Our Life
         </h3>   
        
    </div>
