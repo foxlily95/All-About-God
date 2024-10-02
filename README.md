@@ -4,10 +4,10 @@
 body {background-color: lemonchiffon;}
 h3   {color: black;}
 p    {color: black;}
-table{background-color: ##eceed6;}
+table{background-color: #eceed6;}
 tr   {border-bottom: 1.5px solid #ddd;
      background-color: #eceed6;
-     tr:hover {background-color: #D6EEEE;}
+     tr:hover {background-color: #d6eeec;}
 </style>
 </head>
 <body>
@@ -20,34 +20,26 @@ tr   {border-bottom: 1.5px solid #ddd;
       Everything written in this page is of personal matter of the owner like stories, hobbies and spiritual belief<br>
       It does not intend to harm any cultural race, group of people, organization and/or any religious group</p>
       </td>
-      <td>
-           
-      </td>
+     
     </tr>
     <tr>
       <td>
       <h3>About Us</h3>
       <img src="457699194_865658668995187_7061818248275211889_n.jpg" width="200" height="250" alt="Jim and Jehan">
       </td>
-      <td>
-           <p>Sample Description..</p>
-      </td>
+      
      </tr>
      <tr>
       <td>
       <h3>About God</h3>   
       </td>
-      <td>
-         
-       </td>
+     
      </tr>
      <tr>
        <td>
          
        </td>
-       <td>
-         
-       </td>
+       
      </tr> 
   </table> 
 </body>  
