@@ -7,7 +7,7 @@ p    {color: black;}
 div  {background-color: #eceed6;}
 ul   {list-style-type: none; margin: 0; padding: 0;}
 li   {display: inline;}
-a    {display: block; padding: 8px; background-color: #dddddd;}
+/*a    {display: block; padding: 8px; background-color: #dddddd;}*/
 </style>
 </head>
 
@@ -24,6 +24,9 @@ a    {display: block; padding: 8px; background-color: #dddddd;}
    </div>
    <div>
     <img src="Screenshot 2024-10-02 230004.png" width="1000" height="380" alt="Nature">
+   </div>
+   <div>
+    <p><center>You alone are the Lord. You made the heavens, even the highest heavens, and all their starry host, the earth and all that is on it, the seas and all that is in them. You give life to everything, and the multitudes of heaven worship You (Nehemiah 9:6, NIV).</center></p>
    </div>
    <div>
        <h3>
