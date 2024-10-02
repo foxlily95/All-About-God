@@ -4,8 +4,9 @@
 body {background-color: lemonchiffon;}
 h3   {color: black;}
 p    {color: black;}
-tr   {border-bottom: 1px solid #ddd;
-     background-color: #D6EEEE;
+table{background-color: ##eceed6;}
+tr   {border-bottom: 1.5px solid #ddd;
+     background-color: #eceed6;
      tr:hover {background-color: #D6EEEE;}
 </style>
 </head>
