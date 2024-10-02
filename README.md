@@ -28,9 +28,10 @@ div  {background-color: #eceed6;}
        
    <div>
         <h3>
-        About Us
+        About the Authors
         </h3>
         <img src="457699194_865658668995187_7061818248275211889_n.jpg" width="400" height="550" alt="Jim and Jehan">
+        <p>Hi, we're Jim and Jehan and are both believers of our Lord Jesus. We intend to spread the gospel of the Lord and His goodness in our life through this website</p>
    </div>
      
    <div>
