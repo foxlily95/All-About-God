@@ -20,11 +20,14 @@ tr   {border-bottom: 1.5px solid #ddd;
       Everything written in this page is of personal matter of the owner like stories, hobbies and spiritual belief<br>
       It does not intend to harm any cultural race, group of people, organization and/or any religious group</p>
       </td>
+      <td>
+           
+      </td>
     </tr>
     <tr>
       <td>
       <h3>About Us</h3>
-      <img src="457699194_865658668995187_7061818248275211889_n.jpg" width="200" height="350" alt="Jim and Jehan">
+      <img src="457699194_865658668995187_7061818248275211889_n.jpg" width="200" height="250" alt="Jim and Jehan">
       </td>
       <td>
            <p>Sample Description..</p>
@@ -34,8 +37,14 @@ tr   {border-bottom: 1.5px solid #ddd;
       <td>
       <h3>About God</h3>   
       </td>
+      <td>
+         
+       </td>
      </tr>
      <tr>
+       <td>
+         
+       </td>
        <td>
          
        </td>
