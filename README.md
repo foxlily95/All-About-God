@@ -7,7 +7,6 @@ p    {color: black;}
 div  {background-color: #eceed6;}
 ul   {list-style-type: none; margin: 0; padding: 0;}
 li   {display: inline;}
-/*a    {display: block; padding: 8px; background-color: #dddddd;}*/
 </style>
 </head>
 
