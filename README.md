@@ -5,12 +5,21 @@ body {background-color: lemonchiffon;}
 h3   {color: black;}
 p    {color: black;}
 div  {background-color: #eceed6;}
+ul   {list-style-type: none; margin: 0; padding: 0;}
 </style>
 </head>
 
 <body>
 
  <div>
+   <div>
+    <ul>
+      <li><a href="default.asp">Home</a></li>
+      <li><a href="news.asp">Materials</a></li>
+      <li><a href="contact.asp">Contact</a></li>
+      <li><a href="about.asp">About</a></li>
+    </ul>
+   </div>
    <div>
     <img src="Screenshot 2024-10-02 230004.png" width="1000" height="380" alt="Nature">
    </div>
