@@ -6,6 +6,7 @@ h3   {color: black;}
 p    {color: black;}
 div  {background-color: #eceed6;}
 ul   {list-style-type: none; margin: 0; padding: 0;}
+li   {display: inline;}
 </style>
 </head>
 
@@ -15,7 +16,7 @@ ul   {list-style-type: none; margin: 0; padding: 0;}
    <div>
     <ul>
       <li><a href="default.asp">Home</a></li>
-      <li><a href="news.asp">Materials</a></li>
+      <li><a href="news.asp">Bible Study Materials</a></li>
       <li><a href="contact.asp">Contact</a></li>
       <li><a href="about.asp">About</a></li>
     </ul>
@@ -37,7 +38,7 @@ ul   {list-style-type: none; margin: 0; padding: 0;}
        
    <div>
         <h3>
-        About the Authors
+        About Us
         </h3>
         <img src="457699194_865658668995187_7061818248275211889_n.jpg" width="400" height="550" alt="Jim and Jehan">
         <p>Hi, we're Jim and Jehan and are both believers of our Lord Jesus. We intend to spread the gospel of the Lord and His goodness in our life through this website</p>
