@@ -5,9 +5,6 @@ body {background-color: lemonchiffon;}
 h3   {color: black;}
 p    {color: black;}
 div  {background-color: #eceed6;}
-/*tr   {border-bottom: 1.5px solid #ddd;
-     background-color: #eceed6;
-     tr:hover {background-color: #d6eeec;}*/
 </style>
 </head>
 
@@ -34,11 +31,11 @@ div  {background-color: #eceed6;}
         <img src="457699194_865658668995187_7061818248275211889_n.jpg" width="400" height="550" alt="Jim and Jehan">
    </div>
      
-     <div>
+   <div>
         <h3>
         About God
         </h3>   
-     </div>
+   </div>
      
     
      
