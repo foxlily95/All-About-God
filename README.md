@@ -12,7 +12,7 @@ div  {background-color: #eceed6;}
 
  <div>
    <div>
-    <img src="Screenshot 2024-10-02 230004.png" width="800" height="250" alt="Nature">
+    <img src="Screenshot 2024-10-02 230004.png" width="1000" height="400" alt="Nature">
    </div>
    <div>
        <h3>
@@ -37,7 +37,7 @@ div  {background-color: #eceed6;}
         <h3>
         About God
         </h3>   
-        <img src="Screenshot 2024-10-02 230004.png" width="600" height="400" alt="Nature">
+       
    </div>
      
     
