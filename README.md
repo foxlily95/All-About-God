@@ -17,8 +17,9 @@ li   {display: inline;}
     <ul>
       <li><a href="default.asp">Home       |</a></li>
       <li><a href="news.asp">Bible Study Materials       |</a></li>
+     <li><a href="news.asp">Gallery       |</a></li>
       <li><a href="contact.asp">Contact       |</a></li>
-      <li><a href="about.asp">About</a></li>
+      <li><a href="about.asp">About Us</a></li>
     </ul>
    </div>
    <div>
@@ -48,8 +49,9 @@ li   {display: inline;}
      
    <div>
         <h3>
-        Who is God in Our Life
-        </h3>   
+        Our Testimonies 
+        </h3> 
+        <p>Sample text... </p>
        
    </div>
      
