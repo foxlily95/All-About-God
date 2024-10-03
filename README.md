@@ -23,7 +23,7 @@ li   {display: inline;}
     </ul>
    </div>
    <div>
-    <img src="Screenshot 2024-10-02 230004.png" width="1000" height="380" alt="Nature">
+    <img src="Screenshot 2024-10-03 093757.png" width="1000" height="380" alt="Nature">
    </div>
    <div>
     <p><center>You alone are the Lord. You made the heavens, even the highest heavens, and all their starry host, the earth and all that is on it, the seas and all that is in them. You give life to everything, and the multitudes of heaven worship You (Nehemiah 9:6, NIV).</center></p>
