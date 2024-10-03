@@ -19,7 +19,7 @@ li   {display: inline;}
       <li><a href="default.asp">Home       |</a></li>
       <li><a href="news.asp">Daily Bible Devotions       |</a></li>
      <li><a href="news.asp">Gallery       |</a></li>
-      <li><a href="about.asp">About Us       |</a></li>
+      <li><a href="#about">About Us       |</a></li>
       <li><a href="#contact">Contact</a></li>
     </ul>
    </div>
@@ -41,7 +41,7 @@ li   {display: inline;}
        </p>
    </div>
        
-   <div>
+   <div id="about">
         <h3>
         About Us
         </h3>
