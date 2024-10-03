@@ -7,7 +7,7 @@ p    {color: black;}
 div  {background-color: #eceed6;}
 ul   {list-style-type: none; margin: 0; padding: 0;}
 li   {display: inline;}
-.paraformat {font-family: Verdana, Geneva, Tahoma, sans-serif"; font-style:italic}
+.paraformat {font-family: Verdana, Geneva, Tahoma, sans-serif"; font-style:italic;}
 </style>
 </head>
 
