@@ -47,11 +47,12 @@ li   {display: inline;}
         </h3>
         <img src="457699194_865658668995187_7061818248275211889_n.jpg" width="400" height="550" alt="Jim and Jehan">
         <p>Hi, we're Jim and Jehan and are both believers of our Lord Jesus. We intend to spread the gospel of the Lord and His goodness in our life through this 
-           website. We hope to inspire, encourage and uplift the spirit of those who reads our Bible-driven devotion and stories about God. And we pray that as you 
-           go through these reading materials, may the Holy Spirit touch your heart, heal your soul and draws you closer to our Almighty God. 
+           website. We hope to inspire, encourage and uplift the spirit of those who read our Bible-driven devotion and our stories about our personal encounter 
+           with God. And we pray that as you go through the reading materials, may the Holy Spirit touch your heart, heal your soul and draws you closer to our 
+           Almighty God. 
         </p>
         <p>Enjoy reading and exploring the Word of God and experience His love, grace and mercy everyday, and be able to establish an intimate and deeper 
-           relationship and connection to Him. 
+           relationship and connection with our Heavenly Father. 
         </p>
         <p>For any inquiries, please feel free to <a href="contact.asp">Contact Us</a>
         <br>Thank you so much and God bless
@@ -68,7 +69,17 @@ li   {display: inline;}
        
    </div>
      
-    
+   <div>
+        <h3>
+        Contact
+        </h3> 
+        <p>Mobile Number:+63 925 728 5380<br>
+         Email Address: jehanbulanadi@yahoo.com
+        </p>
+       
+        
+       
+   </div> 
      
  </div>
 
