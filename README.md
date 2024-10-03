@@ -57,12 +57,20 @@ li   {display: inline;}
         </h3>  
         <table>
          <tr>
-          <td></td>
-          <td></td>
+          <td>
+           <img src="457699194_865658668995187_7061818248275211889_n.jpg" width="550" height="550" alt="Jim and Jehan">
+          </td>
+          <td>
+           <img src="457699194_865658668995187_7061818248275211889_n.jpg" width="550" height="550" alt="Jim and Jehan">
+          </td>
          </tr>
          <tr>
-          <td></td>
-          <td></td>
+          <td>
+           <img src="457699194_865658668995187_7061818248275211889_n.jpg" width="550" height="550" alt="Jim and Jehan">
+          </td>
+          <td>
+           <img src="457699194_865658668995187_7061818248275211889_n.jpg" width="550" height="550" alt="Jim and Jehan">
+          </td>
          </tr>
         </table>
    </div>
