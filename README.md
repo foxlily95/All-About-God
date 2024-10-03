@@ -58,24 +58,24 @@ li   {display: inline;}
         <table>
          <tr>
           <td>
-           <img src="457699194_865658668995187_7061818248275211889_n.jpg" width="300" height="300" alt="Jim and Jehan">
+           <img src="Screenshot 2024-08-26 195853.png" width="300" height="300" alt="Jim and Jehan">
           </td>
           <td>
-           <img src="457699194_865658668995187_7061818248275211889_n.jpg" width="300" height="300" alt="Jim and Jehan">
+           <img src="Screenshot 2024-08-26 202648.png" width="300" height="300" alt="Jim and Jehan">
           </td>
           <td>
-           <img src="457699194_865658668995187_7061818248275211889_n.jpg" width="300" height="300" alt="Jim and Jehan">
+           <img src="Screenshot 2024-08-26 202756.png" width="300" height="300" alt="Jim and Jehan">
           </td>
          </tr>
          <tr>
           <td>
-           <img src="457699194_865658668995187_7061818248275211889_n.jpg" width="300" height="300" alt="Jim and Jehan">
+           <img src="Screenshot 2024-08-26 202953.png" width="300" height="300" alt="Jim and Jehan">
           </td>
           <td>
-           <img src="457699194_865658668995187_7061818248275211889_n.jpg" width="300" height="300" alt="Jim and Jehan">
+           <img src="Screenshot 2024-08-26 203930.png" width="300" height="300" alt="Jim and Jehan">
           </td>
           <td>
-           <img src="457699194_865658668995187_7061818248275211889_n.jpg" width="300" height="300" alt="Jim and Jehan">
+           <img src="Screenshot 2024-08-26 203209.png" width="300" height="300" alt="Jim and Jehan">
           </td>
          </tr>
         </table>
