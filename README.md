@@ -54,7 +54,7 @@ li   {display: inline;}
         <p>Enjoy reading and exploring the Word of God and experience His love, grace and mercy everyday, and be able to establish an intimate and deeper 
            relationship and connection with our Heavenly Father. 
         </p>
-        <p>For any inquiries, please feel free to <a id="contact">Contact Us</a>
+        <p>For any inquiries, please feel free to <a href="#contact">Contact Us</a>
         <br>Thank you so much and God bless
         </p>
    </div>
