@@ -18,7 +18,7 @@ li   {display: inline;}
     <ul>
       <li><a href="#home">Home       |</a></li>
       <li><a href="#devo">Daily Bible Devotions       |</a></li>
-      <li><a href="#gallery">Gallery       |</a></li>
+      <li><a href="#gallery">Projects      |</a></li>
       <li><a href="#about">About Us       |</a></li>
       <li><a href="#testimonies">Our Testimonies       |</a></li>
       <li><a href="#contact">Contact</a></li>
@@ -53,29 +53,17 @@ li   {display: inline;}
 
    <div id="gallery">
         <h3>
-        Gallery
+        Projects
         </h3>  
         <table>
          <tr>
           <td>
            <img src="Screenshot 2024-08-26 195853.png" width="300" height="300" alt="Jim and Jehan">
           </td>
-          <td>
-           <img src="Screenshot 2024-08-26 202648.png" width="300" height="300" alt="Jim and Jehan">
-          </td>
-          <td>
-           <img src="Screenshot 2024-08-26 202756.png" width="300" height="300" alt="Jim and Jehan">
-          </td>
          </tr>
          <tr>
           <td>
            <img src="Screenshot 2024-08-26 202953.png" width="300" height="300" alt="Jim and Jehan">
-          </td>
-          <td>
-           <img src="Screenshot 2024-08-26 203930.png" width="300" height="300" alt="Jim and Jehan">
-          </td>
-          <td>
-           <img src="Screenshot 2024-08-26 203209.png" width="300" height="300" alt="Jim and Jehan">
           </td>
          </tr>
         </table>
