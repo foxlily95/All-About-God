@@ -16,9 +16,9 @@ li   {display: inline;}
  <div>
    <div>
     <ul>
-      <li><a href="default.asp">Home       |</a></li>
-      <li><a href="news.asp">Daily Bible Devotions       |</a></li>
-      <li><a href="news.asp">Gallery       |</a></li>
+      <li><a href="#home">Home       |</a></li>
+      <li><a href="#devo">Daily Bible Devotions       |</a></li>
+      <li><a href="#gallery">Gallery       |</a></li>
       <li><a href="#about">About Us       |</a></li>
       <li><a href="#testimonies">Our Testimonies       |</a></li>
       <li><a href="#contact">Contact</a></li>
@@ -41,7 +41,32 @@ li   {display: inline;}
         It does not intend to harm any cultural race, group of people, organization and/or any religious group
        </p>
    </div>
-       
+
+   <div id="devo">
+        <h3>
+        Daily Bible Devotion
+        </h3>  
+        <p>
+         <h4></h4>
+        </p>
+   </div>
+
+   <div id="gallery">
+        <h3>
+        Gallery
+        </h3>  
+        <table>
+         <tr>
+          <td></td>
+          <td></td>
+         </tr>
+         <tr>
+          <td></td>
+          <td></td>
+         </tr>
+        </table>
+   </div>
+    
    <div id="about">
         <h3>
         About Us
