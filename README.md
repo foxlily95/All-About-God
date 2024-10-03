@@ -51,12 +51,10 @@ li   {display: inline;}
         </p>
    </div>
 
-  <div id="projects">
+   <div id="projects">
         <h3>
         Projects
         </h3>  
-         <img src="Screenshot 2024-08-26 195853.png" width="500" height="500" alt="Jim and Jehan">
-         <img src="Screenshot 2024-08-26 202953.png" width="500" height="500" alt="Jim and Jehan">
    </div>
     
    <div id="about">
