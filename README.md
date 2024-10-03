@@ -20,7 +20,7 @@ li   {display: inline;}
       <li><a href="news.asp">Daily Bible Devotions       |</a></li>
      <li><a href="news.asp">Gallery       |</a></li>
       <li><a href="contact.asp">About Us       |</a></li>
-      <li><a href="about.asp">Contact</a></li>
+      <li><a href="about.asp" id="Contact">Contact</a></li>
     </ul>
    </div>
    <div>
@@ -54,7 +54,7 @@ li   {display: inline;}
         <p>Enjoy reading and exploring the Word of God and experience His love, grace and mercy everyday, and be able to establish an intimate and deeper 
            relationship and connection with our Heavenly Father. 
         </p>
-        <p>For any inquiries, please feel free to <a href="contact.asp">Contact Us</a>
+        <p>For any inquiries, please feel free to <a href="contact.asp" id="Contact">Contact Us</a>
         <br>Thank you so much and God bless
         </p>
    </div>
@@ -71,10 +71,10 @@ li   {display: inline;}
      
    <div>
         <h3>
-        Contact
+        <a id="Contact">Contact</a>
         </h3> 
         <p>Mobile Number:+63 925 728 5380<br>
-         Email Address: jehanbulanadi@yahoo.com
+         Email Address: <a href="mailto:jehanbulanadi@yahoo.com">jehanbulanadi@yahoo.com</a>
         </p>
        
         
