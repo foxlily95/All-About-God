@@ -48,8 +48,9 @@ li   {display: inline;}
            website. We hope to inspire, encourage and uplift the spirit of those who reads our devotion and stories about God. And we pray that as you go through 
            the reading materials, may the Holy Spirit touch your heart, heal your soul and draws you closer to our Almighty God. 
         </p>
-        <p>Enjoy reading and exploring the Word of God and experience His love, grace and mercy everyday, and be able to establish an intimate and deeper relationship and connection to Him. <br> For any inquiries, please feel free to <a 
-           href="contact.asp">Contact Us</a>. Thank you so much and God bless</p>
+        <p>Enjoy reading and exploring the Word of God and experience His love, grace and mercy everyday, and be able to establish an intimate and deeper 
+           relationship and connection to Him. </p>
+        <p>For any inquiries, please feel free to <a href="contact.asp">Contact Us</a>. Thank you so much and God bless</p>
    </div>
      
    <div>
