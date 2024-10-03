@@ -50,7 +50,8 @@ li   {display: inline;}
         </p>
         <p>Enjoy reading and exploring the Word of God and experience His love, grace and mercy everyday, and be able to establish an intimate and deeper 
            relationship and connection to Him. </p>
-        <p>For any inquiries, please feel free to <a href="contact.asp">Contact Us</a>. Thank you so much and God bless</p>
+        <p>For any inquiries, please feel free to <a href="contact.asp">Contact Us</a>. </p>
+        <p>Thank you so much and God bless</p>
    </div>
      
    <div>
