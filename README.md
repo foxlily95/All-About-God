@@ -18,8 +18,9 @@ li   {display: inline;}
     <ul>
       <li><a href="default.asp">Home       |</a></li>
       <li><a href="news.asp">Daily Bible Devotions       |</a></li>
-     <li><a href="news.asp">Gallery       |</a></li>
+      <li><a href="news.asp">Gallery       |</a></li>
       <li><a href="#about">About Us       |</a></li>
+      <li><a href="#testimonies">Our Testimonies       |</a></li>
       <li><a href="#contact">Contact</a></li>
     </ul>
    </div>
@@ -59,7 +60,7 @@ li   {display: inline;}
         </p>
    </div>
      
-   <div>
+   <div id="testimonies">
         <h3>
         Our Testimonies 
         </h3> 
