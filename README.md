@@ -51,9 +51,11 @@ li   {display: inline;}
     <img src="Screenshot 2024-10-03 093632.png" width="1000" height="380" alt="Nature">
    </div>
    <div>
-    <p class="paraformat"><center>You alone are the Lord. You made the heavens, even the highest heavens, and all their starry host, the earth and all that is on 
-    it, the seas and all that is in them. You give life to everything, and the multitudes of heaven worship You (Nehemiah 9:6, NIV).</center></p>
+    <p><center>You alone are the Lord. You made the heavens, even the highest heavens, and all their starry host, the earth and all that is on 
+    it, the seas and all that is in them. You give life to everything, and the multitudes of heaven worship You (Nehemiah 9:6, NIV).</center>
+    </p>
    </div>
+  
    <div>
        <h3>
         Notice to the Public
@@ -74,11 +76,11 @@ li   {display: inline;}
 
         <button type="button" class="collapsible">October 1, 2024</button>
         <div class="content">
-          <p>
+         <p>
          <h4>John 5:24 <br> 
           I tell you the truth, those who listen to my message and believe in God who sent me have eternal life. They will never be condemned for their sins, but 
           they already have passed from death to life. 
-         </h4>
+         </h4></p>
          <p>
           <h4>Cross References:</h4>
           1 John 3:14<br>
@@ -106,46 +108,102 @@ li   {display: inline;}
          </p>
          <p>Thus, what we feed our mind becomes our mindset and beliefs, so make it a habbit to read the Bible and apply it to your everyday life to have a 
           renewed and transformed life in Christ. Amen..
-         
          </p>
                 
         <button type="button" class="collapsible">October 2, 2024</button>
         <div class="content">
-          <p>Will be uploaded soon..</p>
-        </div>
-
-        <button type="button" class="collapsible">October 3, 2024</button>
-        <div class="content">
-          <p>Will be uploaded soon..</p>
-        </div>
-       
-        <button type="button" class="collapsible">October 4, 2024</button>
-        <div class="content">
-         <p>
-         <h4>Romans 5:8 <br> 
+        <p>
+          <h4>Romans 5:8 <br> 
           But God demonstrate His own love toward us, in that while we were sinners, Christ died for us
-         </h4>
-         <p>
+          </h4>
+          </p>
+          <p>
           <h4>Cross References:</h4>
           Romans 6:23<br>
           For the wages of sin is death, but the gift of God is eternal life in Christ Jesus our Lord <br><br>
           Romans 8:31-39/Romans 8:37<br>
           No, despite all these things, overwhelming victory is ours, through Christ who loves us 
-         </p>
-         <p>
+          </p>
           <h4>Reflection</h4>
-          God in His very nature, which is love can't bear or endure to see us got separated from Him because of our sins. With His great love for us, He gave His 
-          only begotten Son to us to cleanse us from our sins and redeemed us through Christ's death on the cross. God sacrificed His own son for us so we may be            reconciled with God. What a great love God has for us... <br><br>
-          Romans 8:32 Since He did not spare even His own son but gave him up for us all, won't he also give us everything else? God want us to be with Him in His 
-          Kingdom; to get us back and be with Him forever and the reason why Jesus became flesh and acted as ransom for our sins... Romans 8:39 nothing in all 
+          <p>God in His very nature, which is love can't bear or endure to see us got separated from Him because of our sins. With His great love for us, He gave 
+          His only begotten Son to us to cleanse us from our sins and redeemed us through Christ's death on the cross. God sacrificed His own son for us so we may 
+          be reconciled with God. What a great love God has for us...</p>
+          <p>Romans 8:32 Since He did not spare even His own son but gave him up for us all, won't he also give us everything else? God want us to be with Him in 
+          His Kingdom; to get us back and be with Him forever and the reason why Jesus became flesh and acted as ransom for our sins... Romans 8:39 nothing in all 
           creation will ever be able to separate us from the love of God that is revealed in Christ Jesus our Lord. Isn't that a great love from God?
-         </p>
-        </p>
-      </div>
+          </p>
+        </div>
+
+        <button type="button" class="collapsible">October 3, 2024</button>
+        <div class="content">
+          <p>
+          <h4>Romans 5:8 <br> 
+          But God demonstrate His own love toward us, in that while we were sinners, Christ died for us
+          </h4>
+          </p>
+          <p>
+          <h4>Cross References:</h4>
+          Romans 6:23<br>
+          For the wages of sin is death, but the gift of God is eternal life in Christ Jesus our Lord <br><br>
+          Romans 8:31-39/Romans 8:37<br>
+          No, despite all these things, overwhelming victory is ours, through Christ who loves us 
+          </p>
+          <h4>Reflection</h4>
+          <p>God in His very nature, which is love can't bear or endure to see us got separated from Him because of our sins. With His great love for us, He gave 
+          His only begotten Son to us to cleanse us from our sins and redeemed us through Christ's death on the cross. God sacrificed His own son for us so we may 
+          be reconciled with God. What a great love God has for us...</p>
+          <p>Romans 8:32 Since He did not spare even His own son but gave him up for us all, won't he also give us everything else? God want us to be with Him in 
+          His Kingdom; to get us back and be with Him forever and the reason why Jesus became flesh and acted as ransom for our sins... Romans 8:39 nothing in all 
+          creation will ever be able to separate us from the love of God that is revealed in Christ Jesus our Lord. Isn't that a great love from God?
+          </p>
+        </div>
+       
+        <button type="button" class="collapsible">October 4, 2024</button>
+        <div class="content">
+          <p>
+          <h4>Romans 5:8 <br> 
+          But God demonstrate His own love toward us, in that while we were sinners, Christ died for us
+          </h4>
+          </p>
+          <p>
+          <h4>Cross References:</h4>
+          Romans 6:23<br>
+          For the wages of sin is death, but the gift of God is eternal life in Christ Jesus our Lord <br><br>
+          Romans 8:31-39/Romans 8:37<br>
+          No, despite all these things, overwhelming victory is ours, through Christ who loves us 
+          </p>
+          <h4>Reflection</h4>
+          <p>God in His very nature, which is love can't bear or endure to see us got separated from Him because of our sins. With His great love for us, He gave 
+          His only begotten Son to us to cleanse us from our sins and redeemed us through Christ's death on the cross. God sacrificed His own son for us so we may 
+          be reconciled with God. What a great love God has for us...</p>
+          <p>Romans 8:32 Since He did not spare even His own son but gave him up for us all, won't he also give us everything else? God want us to be with Him in 
+          His Kingdom; to get us back and be with Him forever and the reason why Jesus became flesh and acted as ransom for our sins... Romans 8:39 nothing in all 
+          creation will ever be able to separate us from the love of God that is revealed in Christ Jesus our Lord. Isn't that a great love from God?
+          </p>
+         </div>
       
       <button type="button" class="collapsible">October 5, 2024</button>
       <div class="content">
-        <p>Will be uploaded soon..</p>
+        <p>
+          <h4>Romans 5:8 <br> 
+          But God demonstrate His own love toward us, in that while we were sinners, Christ died for us
+          </h4>
+          </p>
+          <p>
+          <h4>Cross References:</h4>
+          Romans 6:23<br>
+          For the wages of sin is death, but the gift of God is eternal life in Christ Jesus our Lord <br><br>
+          Romans 8:31-39/Romans 8:37<br>
+          No, despite all these things, overwhelming victory is ours, through Christ who loves us 
+          </p>
+          <h4>Reflection</h4>
+          <p>God in His very nature, which is love can't bear or endure to see us got separated from Him because of our sins. With His great love for us, He gave 
+          His only begotten Son to us to cleanse us from our sins and redeemed us through Christ's death on the cross. God sacrificed His own son for us so we may 
+          be reconciled with God. What a great love God has for us...</p>
+          <p>Romans 8:32 Since He did not spare even His own son but gave him up for us all, won't he also give us everything else? God want us to be with Him in 
+          His Kingdom; to get us back and be with Him forever and the reason why Jesus became flesh and acted as ransom for our sins... Romans 8:39 nothing in all 
+          creation will ever be able to separate us from the love of God that is revealed in Christ Jesus our Lord. Isn't that a great love from God?
+          </p>
       </div>
 
    <div id="projects">
@@ -185,9 +243,7 @@ li   {display: inline;}
         </h3> 
         <h4><p>Jim's Personal Encounter with God</p></h4>
         <h4><p>Jehan's Personal Encounter with God</p></h4>
-        
-       
-   </div>
+    </div>
      
    <div id="contact">
         <h3>
@@ -197,12 +253,8 @@ li   {display: inline;}
          Email Address: <a href="mailto:jehanbulanadi@yahoo.com">jehanbulanadi@yahoo.com</a> or <a 
          href="mailto:jimcancio32@gmail.com">jimcancio32@gmail.com</a>
         </p>
-       
-        
-       
    </div> 
 </body>  
-</html>
 
 <script>
 var coll = document.getElementsByClassName("collapsible");
@@ -220,3 +272,8 @@ for (i = 0; i < coll.length; i++) {
   });
 }
 </script>
+
+
+</html>
+
+
