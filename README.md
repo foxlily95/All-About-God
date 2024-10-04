@@ -51,16 +51,16 @@ li   {display: inline;}
           But God demonstrate His own love toward us, in that while we were sinners, Christ died for us
          </h4>
          <p>
-          Cross Reference: <br>
+          <h4>Cross References:</h4> <br>
           Romans 6:23<br>
           For the wages of sin is death, but the gift of God is eternal life in Christ Jesus our Lord <br><br>
           Romans 8:31-39/Romans 8:37<br>
           No, despite all these things, overwhelming victory is ours, through Christ who loves us 
          </p>
          <p>
-          <h4>Reflection</h4><br>
+          <h4>Reflection</h4>
           God in His very nature, which us love can't see or endure to see us got separated from Him because of our sins. With His great love for us, He gave His 
-          only begotten Son to us to cleanse us from our sins and redeemed us through Christ's death on the cross. God sacrificed His own son for us so we may be            reconciled with God. What a great love God has for us... <br>
+          only begotten Son to us to cleanse us from our sins and redeemed us through Christ's death on the cross. God sacrificed His own son for us so we may be            reconciled with God. What a great love God has for us... <br><br>
           Romans 8:32 Since He did not spare even His own son but gave him up for us all, won't he also give us everything else? God want us to be with Him in His 
           Kingdom; to get us back and be with Him forever and the reason why Jesus became flesh and acted as ransom for our sins... Romans 8:39 nothing in all 
           creation will ever be able to separate us from the love of God that is revealed in Christ Jesus our Lord. Isn't that a great love from God?
