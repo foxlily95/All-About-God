@@ -72,7 +72,7 @@ li   {display: inline;}
         <h3>
         Projects
         </h3>  
-        <img src="457699194_865658668995187_7061818248275211889_n.jpg" width="400" height="550" alt="Donations">
+        <img src="Screenshot 2024-10-04 142040.png" width="" height="" alt="Donations">
         <p>Through the initiatives of Jim Cancio and collaborate effort with the Chicago Filipino House Church, with their generous heart 
          and kindness, boxes of donations will be given to ICOC Angeles City and ICOC Laguna. As it is written in the Bible 2 Corinthians 9:7 Each one must give as he 
          has decided in his heart, not reluctantly or under compulsion, for God loves a cheerful giver.<br>
