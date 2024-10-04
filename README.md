@@ -7,7 +7,6 @@ p    {color: black;}
 div  {background-color: #eceed6;}
 ul   {list-style-type: none; margin: 0; padding: 0;}
 li   {display: inline;}
-.paraformat {font-family: Verdana, Geneva, Tahoma, sans-serif; font-style:italic; backgroun-color: white;}
 </style>
 </head>
 
@@ -42,14 +41,7 @@ li   {display: inline;}
        </p>
    </div>
 
-   <div class="section">
-    <button type="button" class="collapsible">
-        Open collapsible
-    </button>
-    <div class="collapsible-content">
-        <p>Lorem ipsum...</p>
-    </div>
-   </div>
+   
    
    <div id="devo">
         <h3>
@@ -83,7 +75,8 @@ li   {display: inline;}
         </h3>  
         <img src="Screenshot 2024-10-04 142040.png" width="" height="" alt="Donations">
         <p>Through the initiatives of Jim Cancio and collaborate effort with the Chicago Filipino House Church under the International Churches of Christ in 
-        Chicago, with their generous heart and kindness, boxes of donations will be given to ICOC Angeles City and ICOC Laguna. As it is written in the Bible - 
+        Chicago, with their generous heart and kindness, boxes of donations will be given to the church members of ICOC Angeles City and ICOC Laguna in the 
+        Philippines. As it is written in the Bible - 
         <h4>2 Corinthians 9:7 Each one must give as he has decided in his heart, not reluctantly or under compulsion, for God loves a cheerful giver.</h4>
         Thank you so much to all the people who without a hesitant donated these items to give joy and happiness to the recipients.. for God's glory</p>
    </div>
