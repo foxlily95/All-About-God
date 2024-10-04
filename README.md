@@ -71,7 +71,11 @@ li   {display: inline;}
         <h3>
         Daily Bible Devotion
         </h3>  
-        <p>
+
+       
+<button type="button" class="collapsible">October 4, 2024</button>
+<div class="content">
+   <p>
          <h4>Romans 5:8 <br> 
           But God demonstrate His own love toward us, in that while we were sinners, Christ died for us
          </h4>
@@ -91,6 +95,15 @@ li   {display: inline;}
           creation will ever be able to separate us from the love of God that is revealed in Christ Jesus our Lord. Isn't that a great love from God?
          </p>
         </p>
+</div>
+<button type="button" class="collapsible">October 5, 2024</button>
+<div class="content">
+  <p>Will be uploaded soon..</p>
+</div>
+
+     
+     
+        
    </div>
 
    <div id="projects">
@@ -148,20 +161,6 @@ li   {display: inline;}
    </div> 
      
  </div>
-
-<p>Collapsible Set:</p>
-<button type="button" class="collapsible">Open Section 1</button>
-<div class="content">
-  <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</p>
-</div>
-<button type="button" class="collapsible">Open Section 2</button>
-<div class="content">
-  <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</p>
-</div>
-<button type="button" class="collapsible">Open Section 3</button>
-<div class="content">
-  <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</p>
-</div>
 
 <script>
 var coll = document.getElementsByClassName("collapsible");
