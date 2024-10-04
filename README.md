@@ -108,7 +108,7 @@ li   {display: inline;}
           renewed and transformed life in Christ. Amen..
          
          </p>
-        </div>
+        /*</div>*/
         
         <button type="button" class="collapsible">October 2, 2024</button>
         <div class="content">
