@@ -74,7 +74,40 @@ li   {display: inline;}
 
         <button type="button" class="collapsible">October 1, 2024</button>
         <div class="content">
-          <p>Will be uploaded soon..</p>
+          <p>
+         <h4>John 5:24 <br> 
+          I tell you the truth, those who listen to my message and believe in God who sent me have eternal life. They will never be condemned for their sins, but 
+          they already have passed from death to life. 
+         </h4>
+         <p>
+          <h4>Cross References:</h4>
+          1 John 3:14<br>
+          We know that we already have passed from death to life because we love each other. Anyone who does not love remains in death.<br><br>
+          Keypoints:<br>
+          1. Listen to the message<br>
+          2. Believe in God<br>
+          3. Will never be condemned for their sins<br>
+          4. Eternal life<br>
+          5. Passed from death to life
+         </p>
+         
+         <h4>Reflection</h4>
+          <p>One of the indicators that a person has moved from the realm of evil to real of God is LOVE. In order for us to pass from death to life is what is 
+          being said in 1 John 3:14 "we should love each other" and 1 John 4:7-8 "Beloved, let us love one another, for love is from God, and whoever loves has 
+          been born of God and knows God. Anyone who does not love does not know God, because God is love 
+         </p>
+         <p>So we may not be condemned from our sins and so we can have eternal life., we need to listen to God's message and believe in Him. And the very core of           God's message is His commandment to us that is to live like Christ, be like Christ - that is to love God and our neighbors as we love ourselves.
+         </p>
+         <p>God even command us to love our enemy - just like us when we were still sinners, we are considered His enemies. But God gave His Son to us so we may 
+          be redeemed from darkness.
+         </p>
+         <p>And we can fully know and experience this kind of love that God has for us is when we read and listen to God's words and messages and believe to what 
+          it says and believe God who is the major context of the Bible and Jesus as our Savior.
+         </p>
+         <p>Thus, what we feed our mind becomes our mindset and beliefs, so make it a habbit to read the Bible and apply it to your everyday life to have a 
+          renewed and transformed life in Christ. Amen..
+         
+         </p>
         </div>
         
         <button type="button" class="collapsible">October 2, 2024</button>
