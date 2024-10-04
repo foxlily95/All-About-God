@@ -108,8 +108,7 @@ li   {display: inline;}
           renewed and transformed life in Christ. Amen..
          
          </p>
-        /*</div>*/
-        
+                
         <button type="button" class="collapsible">October 2, 2024</button>
         <div class="content">
           <p>Will be uploaded soon..</p>
@@ -148,11 +147,6 @@ li   {display: inline;}
       <div class="content">
         <p>Will be uploaded soon..</p>
       </div>
-
-     
-     
-        
-   </div>
 
    <div id="projects">
         <h3>
@@ -207,9 +201,6 @@ li   {display: inline;}
         
        
    </div> 
-     
- </div>
-
 <script>
 var coll = document.getElementsByClassName("collapsible");
 var i;
