@@ -73,7 +73,7 @@ li   {display: inline;}
         <h3>
         Daily Bible Devotion
         </h3>  
-
+   </div>
         <button type="button" class="collapsible">October 1, 2024</button>
         <div class="content">
          <p>
