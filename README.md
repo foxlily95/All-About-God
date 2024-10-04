@@ -51,7 +51,7 @@ li   {display: inline;}
           But God demonstrate His own love toward us, in that while we were sinners, Christ died for us
          </h4>
          <p>
-          <h4>Cross References:</h4> <br>
+          <h4>Cross References:</h4>
           Romans 6:23<br>
           For the wages of sin is death, but the gift of God is eternal life in Christ Jesus our Lord <br><br>
           Romans 8:31-39/Romans 8:37<br>
