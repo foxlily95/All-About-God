@@ -59,7 +59,7 @@ li   {display: inline;}
          </p>
          <p>
           <h4>Reflection</h4>
-          God in His very nature, which is love can't see or endure to see us got separated from Him because of our sins. With His great love for us, He gave His 
+          God in His very nature, which is love can't bear or endure to see us got separated from Him because of our sins. With His great love for us, He gave His 
           only begotten Son to us to cleanse us from our sins and redeemed us through Christ's death on the cross. God sacrificed His own son for us so we may be            reconciled with God. What a great love God has for us... <br><br>
           Romans 8:32 Since He did not spare even His own son but gave him up for us all, won't he also give us everything else? God want us to be with Him in His 
           Kingdom; to get us back and be with Him forever and the reason why Jesus became flesh and acted as ransom for our sins... Romans 8:39 nothing in all 
