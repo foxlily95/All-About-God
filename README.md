@@ -113,24 +113,29 @@ li   {display: inline;}
         <button type="button" class="collapsible">October 2, 2024</button>
         <div class="content">
         <p>
-          <h4>Romans 5:8 <br> 
-          But God demonstrate His own love toward us, in that while we were sinners, Christ died for us
+          <h4>2 Corinthians 5:18-19 <br> 
+          All this is from God, who reconciled us to Himself through Christ and gave us the ministry of reconciliation: that God was reconciling the world to 
+          Himself in Christ, not counting people's sins against them. And He has committed to us the message of reconciliation
           </h4>
           </p>
           <p>
-          <h4>Cross References:</h4>
-          Romans 6:23<br>
-          For the wages of sin is death, but the gift of God is eternal life in Christ Jesus our Lord <br><br>
-          Romans 8:31-39/Romans 8:37<br>
-          No, despite all these things, overwhelming victory is ours, through Christ who loves us 
+          Keypoints:
+          1. Reconciled to Him<br>
+          2. Through Christ<br>
+          3. Ministry of Reconciliation<br>
+          4. Not Counting People's Sin<br>
           </p>
           <h4>Reflection</h4>
-          <p>God in His very nature, which is love can't bear or endure to see us got separated from Him because of our sins. With His great love for us, He gave 
-          His only begotten Son to us to cleanse us from our sins and redeemed us through Christ's death on the cross. God sacrificed His own son for us so we may 
-          be reconciled with God. What a great love God has for us...</p>
-          <p>Romans 8:32 Since He did not spare even His own son but gave him up for us all, won't he also give us everything else? God want us to be with Him in 
-          His Kingdom; to get us back and be with Him forever and the reason why Jesus became flesh and acted as ransom for our sins... Romans 8:39 nothing in all 
-          creation will ever be able to separate us from the love of God that is revealed in Christ Jesus our Lord. Isn't that a great love from God?
+          <p>It is so evident how God loves us so much and would want us to be reconciled to Him. With His vast and unfathomable knowledge, wisdom and 
+          understanding, He knew that the humankind would inherit the sins comitted by Adam and Eve and that everyone would fall short and will commit sin except 
+          for One, the One He loves (Ephesians 1:6) and so He gave His Son to us as a ransom for our sins through the blood of Jesus, and we are now reconciled to 
+          God and we can come freely to God without recalling and counting our sins
+          </p>
+          <p>The only thing that we should do is to be humble to accept our need to repent for our sins through Jesus, change our ways (Romans 12:2) and transform 
+          our  mindset, trust and acknowledge God in all our we do (Proverbs 3:5-6) and accept Jesus as our Lord and Savior - Romans 10:9-11 "That if you confess 
+          with your mouth, "Jesus is Lord", and believe in your heart that God raised Him from the dead, you will be saved. For it is with your heart that you 
+          believe and are justified, and it is with your mouth that you confess and are saved." As the scripture says, "Anyone who trusts in Him will never be put 
+          to shame"
           </p>
         </div>
 
