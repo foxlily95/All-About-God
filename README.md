@@ -119,7 +119,7 @@ li   {display: inline;}
           </h4>
           </p>
           <p>
-          Keypoints:
+          Keypoints:<br>
           1. Reconciled to Him<br>
           2. Through Christ<br>
           3. Ministry of Reconciliation<br>
@@ -142,24 +142,26 @@ li   {display: inline;}
         <button type="button" class="collapsible">October 3, 2024</button>
         <div class="content">
           <p>
-          <h4>Romans 5:8 <br> 
-          But God demonstrate His own love toward us, in that while we were sinners, Christ died for us
+          <h4>1 John 4:16 <br> 
+          And so we know and rely on the love God has for us. God is love. Whoever lives in love lives in God, and God in them
           </h4>
           </p>
           <p>
-          <h4>Cross References:</h4>
-          Romans 6:23<br>
-          For the wages of sin is death, but the gift of God is eternal life in Christ Jesus our Lord <br><br>
-          Romans 8:31-39/Romans 8:37<br>
-          No, despite all these things, overwhelming victory is ours, through Christ who loves us 
+          Keypoints: <br>
+          1. Rely on the love of God <br>
+          2. God is love <br>
+          3. Who lives in love lives in God <br>
+          4. God lives to those who lives in love <br>
           </p>
           <h4>Reflection</h4>
-          <p>God in His very nature, which is love can't bear or endure to see us got separated from Him because of our sins. With His great love for us, He gave 
-          His only begotten Son to us to cleanse us from our sins and redeemed us through Christ's death on the cross. God sacrificed His own son for us so we may 
-          be reconciled with God. What a great love God has for us...</p>
-          <p>Romans 8:32 Since He did not spare even His own son but gave him up for us all, won't he also give us everything else? God want us to be with Him in 
-          His Kingdom; to get us back and be with Him forever and the reason why Jesus became flesh and acted as ransom for our sins... Romans 8:39 nothing in all 
-          creation will ever be able to separate us from the love of God that is revealed in Christ Jesus our Lord. Isn't that a great love from God?
+          <p>The very nature of God is love. He loves us whatever situation and status we are in. But sometimes with our limited understanding and circumstances 
+           we encounter, we question and doubted the love of God; we sometimes tend to focus on the trick of the devil, the confusion and conflict the devil is 
+           inflicting to us; the lies, envy, jealousy that the devil is making us feel so we would think we are worthless and we don't deserve the love of God. 
+           But take note that God has always a good plan out of our situation; there's always a purpose and let's trust God on that purpose is for His glory and 
+           that we may feel His unconditional love. Trust that God is love and when we believe in Him, we have the privilege to experience His love
+          </p>
+          <p>And as believers of God and if we want to represent God in our life, we should apply 1 Corinthians 16:14 "Let all that you do be done in love" and 
+           because God is love and so we must love one another
           </p>
         </div>
        
