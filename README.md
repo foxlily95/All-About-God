@@ -36,7 +36,7 @@ li   {display: inline;}
 
 <body>
 
- <div>
+ 
    <div>
     <ul>
       <li><a href="#home">Home       |</a></li>
@@ -109,7 +109,7 @@ li   {display: inline;}
          <p>Thus, what we feed our mind becomes our mindset and beliefs, so make it a habbit to read the Bible and apply it to your everyday life to have a 
           renewed and transformed life in Christ. Amen..
          </p>
-                
+        </div>        
         <button type="button" class="collapsible">October 2, 2024</button>
         <div class="content">
         <p>
@@ -269,6 +269,7 @@ for (i = 0; i < coll.length; i++) {
          href="mailto:jimcancio32@gmail.com">jimcancio32@gmail.com</a>
         </p>
    </div> 
+
 </body>  
 </html>
 
