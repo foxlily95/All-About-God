@@ -25,7 +25,7 @@ li   {display: inline;}
     </ul>
    </div>
    <div>
-    <img src="Screenshot 2024-10-03 093757.png" width="1000" height="380" alt="Nature">
+    <img src="Screenshot 2024-10-03 093632.png" width="1000" height="380" alt="Nature">
    </div>
    <div>
     <p class="paraformat"><center>You alone are the Lord. You made the heavens, even the highest heavens, and all their starry host, the earth and all that is on 
