@@ -59,7 +59,7 @@ li   {display: inline;}
          </p>
          <p>
           <h4>Reflection</h4>
-          God in His very nature, which us love can't see or endure to see us got separated from Him because of our sins. With His great love for us, He gave His 
+          God in His very nature, which is love can't see or endure to see us got separated from Him because of our sins. With His great love for us, He gave His 
           only begotten Son to us to cleanse us from our sins and redeemed us through Christ's death on the cross. God sacrificed His own son for us so we may be            reconciled with God. What a great love God has for us... <br><br>
           Romans 8:32 Since He did not spare even His own son but gave him up for us all, won't he also give us everything else? God want us to be with Him in His 
           Kingdom; to get us back and be with Him forever and the reason why Jesus became flesh and acted as ransom for our sins... Romans 8:39 nothing in all 
@@ -73,9 +73,9 @@ li   {display: inline;}
         Projects
         </h3>  
         <img src="Screenshot 2024-10-04 142040.png" width="" height="" alt="Donations">
-        <p>Through the initiatives of Jim Cancio and collaborate effort with the Chicago Filipino House Church, with their generous heart 
-         and kindness, boxes of donations will be given to ICOC Angeles City and ICOC Laguna. As it is written in the Bible - <h4>2 Corinthians 9:7 Each one must give as he 
-         has decided in his heart, not reluctantly or under compulsion, for God loves a cheerful giver.</h4>
+        <p>Through the initiatives of Jim Cancio and collaborate effort with the Chicago Filipino House Church under the International Churches of Christ in 
+        Chicago, with their generous heart and kindness, boxes of donations will be given to ICOC Angeles City and ICOC Laguna. As it is written in the Bible - 
+        <h4>2 Corinthians 9:7 Each one must give as he has decided in his heart, not reluctantly or under compulsion, for God loves a cheerful giver.</h4>
         Thank you so much to all the people who without a hesitant donated these items to give joy and happiness to the recipients.. for God's glory</p>
    </div>
     
