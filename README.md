@@ -72,10 +72,24 @@ li   {display: inline;}
         Daily Bible Devotion
         </h3>  
 
+        <button type="button" class="collapsible"><h4>October 1, 2024</h4></button>
+        <div class="content">
+          <p>Will be uploaded soon..</p>
+        </div>
+        
+        <button type="button" class="collapsible"><h4>October 2, 2024</h4></button>
+        <div class="content">
+          <p>Will be uploaded soon..</p>
+        </div>
+
+        <button type="button" class="collapsible"><h4>October 3, 2024</h4></button>
+        <div class="content">
+          <p>Will be uploaded soon..</p>
+        </div>
        
-<button type="button" class="collapsible">October 4, 2024</button>
-<div class="content">
-   <p>
+        <button type="button" class="collapsible"><h4>October 4, 2024</h4></button>
+        <div class="content">
+         <p>
          <h4>Romans 5:8 <br> 
           But God demonstrate His own love toward us, in that while we were sinners, Christ died for us
          </h4>
@@ -95,11 +109,12 @@ li   {display: inline;}
           creation will ever be able to separate us from the love of God that is revealed in Christ Jesus our Lord. Isn't that a great love from God?
          </p>
         </p>
-</div>
-<button type="button" class="collapsible">October 5, 2024</button>
-<div class="content">
-  <p>Will be uploaded soon..</p>
-</div>
+      </div>
+      
+      <button type="button" class="collapsible"><h4>October 5, 2024</h4></button>
+      <div class="content">
+        <p>Will be uploaded soon..</p>
+      </div>
 
      
      
