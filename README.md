@@ -94,7 +94,7 @@ li   {display: inline;}
          </p>
          
          <h4>Reflection</h4>
-          <p>One of the indicators that a person has moved from the realm of evil to real of God is LOVE. In order for us to pass from death to life is what is 
+          <p>One of the indicators that a person has moved from the realm of evil to realm of God is LOVE. In order for us to pass from death to life is what is 
           being said in 1 John 3:14 "we should love each other" and 1 John 4:7-8 "Beloved, let us love one another, for love is from God, and whoever loves has 
           been born of God and knows God. Anyone who does not love does not know God, because God is love 
          </p>
