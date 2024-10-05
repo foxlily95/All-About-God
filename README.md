@@ -2,7 +2,7 @@
 <head>
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <style>
-body {background-color: lemonchiffon;}
+body {background-color: white;}
 h3   {color: black;}
 p    {color: black;}
 div  {background-color: #eceed6;}
