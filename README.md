@@ -223,19 +223,29 @@ li   {display: inline;}
           </h4>
           </p>
           <p>
-          Cross Reference:<br>
+          <h4>Cross References:</h4><br>
           Luke 19:10<br>
           For the Son of Man came to seek and to save the lost.<br><br>
           Romans 12:2<br>
           Do not conform to the pattern of this world, but be transformed by the renewing of your mind. Then you will be able to test and approve what God’s will 
-          is—his good, pleasing and perfect will.
+          is—his good, pleasing and perfect will.<br><br>
+          John 3:3<br>
+          Jesus replied, “I tell you the truth, unless you are born again, you cannot see the Kingdom of God.”
           </p>
           <h4>Reflection</h4>
           <p>
-          To be uploaded soon...
+          It is easier said than done - ..to be a new creation, ..to be born again, ..be transformed. But what is it for us when we do these things? If we believe 
+          that there is life after death, then where do you want to spend it? Our life here on earth is just temporary and our goal should be to prepare our soul 
+          while we are still here, so when the time comes and God took our life, we will have our eternal life with God
           </p>
           <p>
-          
+          How can we be a new creation, be born again and be transformed? The Bible tells us that if we believe in Christ and follow Him, His teachings and how He 
+          lived his life. Jesus became human, He experienced life the same way we are experiencing it today.. He came to save us and He did it because of love. 
+          When we truly understand the depth of God's love for us and when we truly desire and intentionally apply God's word in our life, we will become a new 
+          creation  
+          </p>
+          <p>
+          Everyday is a new beginning where we can start a new way of thinking, another chance to live a new life and become better everyday for God
           </p>
       </div>
 <script>
