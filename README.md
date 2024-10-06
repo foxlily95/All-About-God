@@ -204,7 +204,7 @@ li   {display: inline;}
           problems, challenges, conflict and different adversities in life. But if we are going to look at the life of Jesus in the Bible, he too wasn't spared 
           from these kind of situations. However, he overcame the different temptations and difficulties and continued on his journey and did his role.. that even 
           the sinners whom considered to be God's enemies were saved because that's what Jesus came for, to save the sinners and that's the great love of God and 
-          Jesus for us
+          Jesus by giving up His own life on the cross for us
           </p>
           <p>
           In our present time, how can we do that? If we focus ourselves on the goal of being with God in his kingdom someday, we need to follow Jesus and deny 
@@ -223,7 +223,7 @@ li   {display: inline;}
           </h4>
           </p>
           <p>
-          <h4>Cross References:</h4><br>
+          <h4>Cross References:</h4>
           Luke 19:10<br>
           For the Son of Man came to seek and to save the lost.<br><br>
           Romans 12:2<br>
