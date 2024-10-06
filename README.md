@@ -193,14 +193,25 @@ li   {display: inline;}
       <div class="content">
         <p>
           <h4>1 Corinthians 16:14 <br> 
-           Let everything you do be done in love"
+           Let everything you do be done in love
           </h4>
           </p>
           <p>
           
           </p>
           <h4>Reflection</h4>
-          <p>To be uploaded soon...
+          <p>It is difficult to do everything in love especially when you are not feeling ok, if you're feeling down, if you're struggling, if you're facing 
+          problems, challenges, conflict and different adversities in life. But if we are going to look at the life of Jesus in the Bible, he too wasn't spared 
+          from these kind of situations. However, he overcame the different temptations and difficulties and continued on his journey and did his role.. that even 
+          the sinners whom considered to be God's enemies were saved because that's what Jesus came for, to save the sinners and that's the great love of God and 
+          Jesus for us
+          </p>
+          <p>
+          In our present time, how can we do that? If we focus ourselves on the goal of being with God in his kingdom someday, we need to follow Jesus and deny 
+          ourselves.. that is whatever situation we are in, we should always represent Jesus in our life, we don't lift ourselves but people should be able to 
+          praise and thank God for the experience they encounter through us. Since God is love and as Christians, we should represent God and thus we should love 
+          our neighbors as we love ourselves. An example of this is empathy, compassion, grace, forgiveness, and the manifestation of the fruit of the Spirit and 
+          its application in our life towards how we deal other people
           </p>
       </div>
 
