@@ -74,7 +74,7 @@ li   {display: inline;}
         Daily Bible Devotion
         </h3>  
    </div>
-        <button type="button" class="collapsible">October 1, 2024</button>
+        <button type="button" class="collapsible">October 1, 2024 Tuesday Devotion</button>
         <div class="content">
          <p>
          <h4>John 5:24 <br> 
@@ -110,7 +110,7 @@ li   {display: inline;}
           renewed and transformed life in Christ. Amen..
          </p>
         </div>        
-        <button type="button" class="collapsible">October 2, 2024</button>
+        <button type="button" class="collapsible">October 2, 2024 Wednesday Devotion</button>
         <div class="content">
         <p>
           <h4>2 Corinthians 5:18-19 <br> 
@@ -139,7 +139,7 @@ li   {display: inline;}
           </p>
         </div>
 
-        <button type="button" class="collapsible">October 3, 2024</button>
+        <button type="button" class="collapsible">October 3, 2024 Thursday Devotion</button>
         <div class="content">
           <p>
           <h4>1 John 4:16 <br> 
@@ -165,7 +165,7 @@ li   {display: inline;}
           </p>
         </div>
        
-        <button type="button" class="collapsible">October 4, 2024</button>
+        <button type="button" class="collapsible">October 4, 2024 Friday Devotion</button>
         <div class="content">
           <p>
           <h4>Romans 5:8 <br> 
@@ -189,7 +189,7 @@ li   {display: inline;}
           </p>
          </div>
       
-      <button type="button" class="collapsible">October 5, 2024</button>
+      <button type="button" class="collapsible">October 5, 2024 Saturday Devotion</button>
       <div class="content">
         <p>
           <h4>1 Corinthians 16:14 <br> 
@@ -215,6 +215,29 @@ li   {display: inline;}
           </p>
       </div>
 
+      <button type="button" class="collapsible">October 6, 2024 Sunday Devotion</button>
+      <div class="content">
+        <p>
+          <h4>2 Corinthians 5:17 <br> 
+           Therefore, if anyone is in Christ, he is a new creation; old things have passed away; behold, all things have become new
+          </h4>
+          </p>
+          <p>
+          Cross Reference:<br>
+          Luke 19:10<br>
+          For the Son of Man came to seek and to save the lost.<br><br>
+          Romans 12:2<br>
+          Do not conform to the pattern of this world, but be transformed by the renewing of your mind. Then you will be able to test and approve what God’s will 
+          is—his good, pleasing and perfect will.
+          </p>
+          <h4>Reflection</h4>
+          <p>
+          To be uploaded soon...
+          </p>
+          <p>
+          
+          </p>
+      </div>
 <script>
 var coll = document.getElementsByClassName("collapsible");
 var i;
