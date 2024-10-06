@@ -239,8 +239,9 @@ li   {display: inline;}
           while we are still here, so when the time comes and God took our life, we will have our eternal life with God
           </p>
           <p>
-          How can we be a new creation, be born again and be transformed? The Bible tells us that if we believe in Christ and follow Him, His teachings and how He 
-          lived his life. Jesus became human, He experienced life the same way we are experiencing it today.. He came to save us and He did it because of love. 
+          How can we be a new creation, be born again and be transformed? The Bible tells us to believe in Christ and follow Him, His teachings and how He 
+          lived his life. Jesus became human, He experienced life the same way we are experiencing it today, so what He taught in the Bible is applicable to us 
+          too.. He came to save us and He did it because of love. 
           When we truly understand the depth of God's love for us and when we truly desire and intentionally apply God's word in our life, we will become a new 
           creation  
           </p>
