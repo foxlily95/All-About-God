@@ -98,7 +98,7 @@ li   {display: inline;}
           being said in 1 John 3:14 "we should love each other" and 1 John 4:7-8 "Beloved, let us love one another, for love is from God, and whoever loves has 
           been born of God and knows God. Anyone who does not love does not know God, because God is love 
          </p>
-         <p>So we may not be condemned from our sins and so we can have eternal life., we need to listen to God's message and believe in Him. And the very core of           God's message is His commandment to us that is to live like Christ, be like Christ - that is to love God and our neighbors as we love ourselves.
+         <p>So we may not be condemned from our sins and so we can have eternal life, we need to listen to God's message and believe in Him. And the very core of           God's message is His commandment to us that is to live like Christ, be like Christ - that is to love God and our neighbors as we love ourselves.
          </p>
          <p>God even command us to love our enemy - just like us when we were still sinners, we are considered His enemies. But God gave His Son to us so we may 
           be redeemed from darkness.
