@@ -132,7 +132,7 @@ li   {display: inline;}
           God and we can come freely to God without recalling and counting our sins
           </p>
           <p>The only thing that we should do is to be humble to accept our need to repent for our sins through Jesus, change our ways (Romans 12:2) and transform 
-          our  mindset, trust and acknowledge God in all our we do (Proverbs 3:5-6) and accept Jesus as our Lord and Savior - Romans 10:9-11 "That if you confess 
+          our  mindset, trust and acknowledge God in all we do (Proverbs 3:5-6) and accept Jesus as our Lord and Savior - Romans 10:9-11 "That if you confess 
           with your mouth, "Jesus is Lord", and believe in your heart that God raised Him from the dead, you will be saved. For it is with your heart that you 
           believe and are justified, and it is with your mouth that you confess and are saved." As the scripture says, "Anyone who trusts in Him will never be put 
           to shame"
