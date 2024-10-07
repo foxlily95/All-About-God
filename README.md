@@ -84,16 +84,22 @@ table {
        </p>
    </div>
 
+<div id="devo">
+        <h3>
+        Daily Bible Devotion
+        </h3>  
+</div>
+
 <h3 align="" style="color: black;">
         October 2024
-    </h3>
+</h3>
     
     <table bgcolor="" class="center"
         cellspacing="40" cellpadding="40">
  
        <caption align="top">
            
-        </caption>
+       </caption>
  
         
         <thead>
@@ -174,14 +180,6 @@ table {
         </tbody>
     </table>
 
-
-   
-   
-   <div id="devo">
-        <h3>
-        Daily Bible Devotion
-        </h3>  
-   </div>
         <button type="button" class="collapsible" id="1">October 1, 2024 Tuesday Devotion</button>
         <div class="content">
          <p>
