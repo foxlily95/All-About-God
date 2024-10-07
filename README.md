@@ -252,6 +252,28 @@ li   {display: inline;}
           Everyday is a new beginning where we can start a new way of thinking, another chance to live a new life and become better everyday for God
           </p>
       </div>
+
+      <button type="button" class="collapsible">October 7, 2024 Monday Devotion</button>
+      <div class="content">
+        <p>
+          <h4>Ephesians 2:10 <br> 
+           For we are God's handiwork, created in Christ Jesus to do good works, which God prepared in advance for us to do.
+          </h4>
+          </p>
+          <p>
+          <h4>Cross References:</h4>
+          Psalm 139:14<br>
+          I praise you because I am fearfully and wonderfully made; your works are wonderful, I know that full well.<br>
+          </p>
+          <h4>Reflection</h4>
+          <p>
+          to be uploaded soon..
+          </p>
+          <p>
+          
+          </p>
+          
+      </div>
 <script>
 var coll = document.getElementsByClassName("collapsible");
 var i;
@@ -318,12 +340,7 @@ for (i = 0; i < coll.length; i++) {
         </p>
    </div> 
 
-<h2 style="color:green">Daily Devotion</h2>
-    <br>
-    <h4>Select a Date:
-        <input type="datetime-local" 
-               id="Test_DatetimeLocal">
-    </h4>
+
 
 
 </body>  
