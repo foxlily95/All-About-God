@@ -38,6 +38,7 @@ table {
             border-collapse: collapse;
             background:;
             color: black;
+            align:"center";
         }
          
         th,
@@ -118,16 +119,16 @@ table {
                 <td align="center"></td>
                 <td align="center"><a href="#1">1</a></td>
                 <td align="center"><a href="#2">2</a></td>
-                <td align="center">3</td>
-                <td align="center">4</td>
-                <td align="center">5</td>
+                <td align="center"><a href="#3">3</a></td>
+                <td align="center"><a href="#4">4</a></td>
+                <td align="center"><a href="#5">5</a></td>
             </tr>
             <tr></tr>
             <tr>
-                <td align="center">6</td>
-                <td align="center">7</td>
-                <td align="center">8</td>
-                <td align="center">9</td>
+                <td align="center"><a href="#6">6</a></td>
+                <td align="center"><a href="#7">7</a></td>
+                <td align="center"><a href="#8">8</a></td>
+                <td align="center"><a href="#9">9</a></td>
                 <td align="center">10</td>
                 <td align="center">11</td>
                 <td align="center">12</td>
@@ -215,8 +216,8 @@ table {
           renewed and transformed life in Christ. Amen..
          </p>
         </div>        
-        <button type="button" class="collapsible" >October 2, 2024 Wednesday Devotion</button>
-        <div class="content" id="2">
+        <button type="button" class="collapsible" id="2">October 2, 2024 Wednesday Devotion</button>
+        <div class="content">
         <p>
           <h4>2 Corinthians 5:18-19 <br> 
           All this is from God, who reconciled us to Himself through Christ and gave us the ministry of reconciliation: that God was reconciling the world to 
@@ -244,7 +245,7 @@ table {
           </p>
         </div>
 
-        <button type="button" class="collapsible">October 3, 2024 Thursday Devotion</button>
+        <button type="button" class="collapsible" id="3">October 3, 2024 Thursday Devotion</button>
         <div class="content">
           <p>
           <h4>1 John 4:16 <br> 
@@ -270,7 +271,7 @@ table {
           </p>
         </div>
        
-        <button type="button" class="collapsible">October 4, 2024 Friday Devotion</button>
+        <button type="button" class="collapsible" id="4">October 4, 2024 Friday Devotion</button>
         <div class="content">
           <p>
           <h4>Romans 5:8 <br> 
@@ -294,7 +295,7 @@ table {
           </p>
          </div>
       
-      <button type="button" class="collapsible">October 5, 2024 Saturday Devotion</button>
+      <button type="button" class="collapsible" id="5">October 5, 2024 Saturday Devotion</button>
       <div class="content">
         <p>
           <h4>1 Corinthians 16:14 <br> 
@@ -320,7 +321,7 @@ table {
           </p>
       </div>
 
-      <button type="button" class="collapsible">October 6, 2024 Sunday Devotion</button>
+      <button type="button" class="collapsible" id="6">October 6, 2024 Sunday Devotion</button>
       <div class="content">
         <p>
           <h4>2 Corinthians 5:17 <br> 
@@ -355,7 +356,7 @@ table {
           </p>
       </div>
 
-      <button type="button" class="collapsible">October 7, 2024 Monday Devotion</button>
+      <button type="button" class="collapsible" id="7">October 7, 2024 Monday Devotion</button>
       <div class="content">
         <p>
           <h4>Ephesians 2:10 <br> 
