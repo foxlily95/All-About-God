@@ -55,7 +55,7 @@ table {
 
  
    <div>
-    <ul background-color: #555>
+    <ul>
       <li><a href="#home">Home       |</a></li>
       <li><a href="#devo">Daily Bible Devotions       |</a></li>
       <li><a href="#projects">Projects      |</a></li>
