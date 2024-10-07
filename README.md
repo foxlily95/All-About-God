@@ -38,15 +38,16 @@ table {
             border-collapse: collapse;
             background:;
             color: black;
-            margin-left: auto;
-            margin-right: auto;
-        }
+      }
          
         th,
         td {
             font-weight: "";
         }
-
+.center {
+            margin-left: auto;
+            margin-right: auto;
+            }
 </style>
 </head>
 
@@ -87,7 +88,7 @@ table {
         October 2024
     </h3>
     
-    <table bgcolor="lightgrey" align="center"
+    <table bgcolor="" class="center"
         cellspacing="40" cellpadding="40">
  
        <caption align="top">
