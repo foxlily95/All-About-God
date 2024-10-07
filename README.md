@@ -95,7 +95,7 @@ table {
 </h3>
     
     <table bgcolor="" class="center"
-        cellspacing="40" cellpadding="40">
+        cellspacing="40" cellpadding="40" id="calendar">
  
        <caption align="top">
            
@@ -214,7 +214,8 @@ table {
          </p>
          <p>Thus, what we feed our mind becomes our mindset and beliefs, so make it a habbit to read the Bible and apply it to your everyday life to have a 
           renewed and transformed life in Christ. Amen..
-         </p>
+         </p> <br>
+         <a href="#calendar">Back to Calendar</a>
         </div>        
         <button type="button" class="collapsible" id="2">October 2, 2024 Wednesday Devotion</button>
         <div class="content">
@@ -243,6 +244,8 @@ table {
           believe and are justified, and it is with your mouth that you confess and are saved." As the scripture says, "Anyone who trusts in Him will never be put 
           to shame"
           </p>
+          <br>
+         <a href="#calendar">Back to Calendar</a>
         </div>
 
         <button type="button" class="collapsible" id="3">October 3, 2024 Thursday Devotion</button>
@@ -269,6 +272,8 @@ table {
           <p>And as believers of God and if we want to represent God in our life, we should apply 1 Corinthians 16:14 "Let all that you do be done in love" and 
            because God is love and so we must love one another
           </p>
+        <br>
+         <a href="#calendar">Back to Calendar</a>
         </div>
        
         <button type="button" class="collapsible" id="4">October 4, 2024 Friday Devotion</button>
@@ -293,6 +298,8 @@ table {
           His Kingdom; to get us back and be with Him forever and the reason why Jesus became flesh and acted as ransom for our sins... Romans 8:39 nothing in all 
           creation will ever be able to separate us from the love of God that is revealed in Christ Jesus our Lord. Isn't that a great love from God?
           </p>
+          <br>
+         <a href="#calendar">Back to Calendar</a>
          </div>
       
       <button type="button" class="collapsible" id="5">October 5, 2024 Saturday Devotion</button>
@@ -319,6 +326,8 @@ table {
           our neighbors as we love ourselves. An example of this is empathy, compassion, grace, forgiveness, and the manifestation of the fruit of the Spirit and 
           its application in our life towards how we deal other people
           </p>
+          <br>
+         <a href="#calendar">Back to Calendar</a>
       </div>
 
       <button type="button" class="collapsible" id="6">October 6, 2024 Sunday Devotion</button>
@@ -354,6 +363,8 @@ table {
           <p>
           Everyday is a new beginning where we can start a new way of thinking, another chance to live a new life and become better everyday for God
           </p>
+          <br>
+         <a href="#calendar">Back to Calendar</a>
       </div>
 
       <button type="button" class="collapsible" id="7">October 7, 2024 Monday Devotion</button>
@@ -375,8 +386,10 @@ table {
           <p>
           
           </p>
-          
+          <br>
+         <a href="#calendar">Back to Calendar</a>
       </div>
+      
 <script>
 var coll = document.getElementsByClassName("collapsible");
 var i;
