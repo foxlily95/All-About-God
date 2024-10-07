@@ -81,7 +81,7 @@ table {
        </p>
    </div>
 
-<h3 align="center" style="color: black;">
+<h3 align="" style="color: black;">
         October 2024
     </h3>
     
@@ -116,7 +116,7 @@ table {
             <tr>
                 <td align="center"></td>
                 <td align="center"></td>
-                <td align="center">1</td>
+                <td align="center"><a href="#1">1</a></td>
                 <td align="center">2</td>
                 <td align="center">3</td>
                 <td align="center">4</td>
@@ -179,7 +179,7 @@ table {
         Daily Bible Devotion
         </h3>  
    </div>
-        <button type="button" class="collapsible">October 1, 2024 Tuesday Devotion</button>
+        <button type="button" class="collapsible" id="1">October 1, 2024 Tuesday Devotion</button>
         <div class="content">
          <p>
          <h4>John 5:24 <br> 
