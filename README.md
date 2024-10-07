@@ -117,7 +117,7 @@ table {
                 <td align="center"></td>
                 <td align="center"></td>
                 <td align="center"><a href="#1">1</a></td>
-                <td align="center">2</td>
+                <td align="center"><a href="#2">2</a></td>
                 <td align="center">3</td>
                 <td align="center">4</td>
                 <td align="center">5</td>
@@ -179,8 +179,8 @@ table {
         Daily Bible Devotion
         </h3>  
    </div>
-        <button type="button" class="collapsible" id="1">October 1, 2024 Tuesday Devotion</button>
-        <div class="content">
+        <button type="button" class="collapsible">October 1, 2024 Tuesday Devotion</button>
+        <div class="content" id="1">
          <p>
          <h4>John 5:24 <br> 
           I tell you the truth, those who listen to my message and believe in God who sent me have eternal life. They will never be condemned for their sins, but 
@@ -216,7 +216,7 @@ table {
          </p>
         </div>        
         <button type="button" class="collapsible">October 2, 2024 Wednesday Devotion</button>
-        <div class="content">
+        <div class="content" id="2">
         <p>
           <h4>2 Corinthians 5:18-19 <br> 
           All this is from God, who reconciled us to Himself through Christ and gave us the ministry of reconciliation: that God was reconciling the world to 
