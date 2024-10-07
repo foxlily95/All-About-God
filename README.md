@@ -36,7 +36,7 @@ li   {display: inline;}
 } 
 table {
             border-collapse: collapse;
-            background: white;
+            background:;
             color: black;
         }
          
@@ -81,9 +81,9 @@ table {
        </p>
    </div>
 
-<h2 align="center" style="color: orange;">
+<h3 align="center" style="color: black;">
         October 2024
-    </h2>
+    </h3>
     
     <table bgcolor="lightgrey" align="center"
         cellspacing="40" cellpadding="40">
@@ -117,56 +117,56 @@ table {
                 <td align="center"></td>
                 <td align="center"></td>
                 <td align="center">1</td>
-                <td>2</td>
-                <td>3</td>
-                <td>4</td>
-                <td>5</td>
+                <td align="center">2</td>
+                <td align="center">3</td>
+                <td align="center">4</td>
+                <td align="center">5</td>
             </tr>
             <tr></tr>
             <tr>
-                <td>6</td>
-                <td>7</td>
-                <td>8</td>
-                <td>9</td>
-                <td>10</td>
-                <td>11</td>
-                <td>12</td>
+                <td align="center">6</td>
+                <td align="center">7</td>
+                <td align="center">8</td>
+                <td align="center">9</td>
+                <td align="center">10</td>
+                <td align="center">11</td>
+                <td align="center">12</td>
             </tr>
             <tr>
-                <td>13</td>
-                <td>14</td>
-                <td>15</td>
-                <td>16</td>
-                <td>17</td>
-                <td>18</td>
-                <td>19</td>
+                <td align="center">13</td>
+                <td align="center">14</td>
+                <td align="center">15</td>
+                <td align="center">16</td>
+                <td align="center">17</td>
+                <td align="center">18</td>
+                <td align="center">19</td>
             </tr>
             <tr>
-                <td>20</td>
-                <td>21</td>
-                <td>22</td>
-                <td>23</td>
-                <td>24</td>
-                <td>25</td>
-                <td>26</td>
+                <td align="center">20</td>
+                <td align="center">21</td>
+                <td align="center">22</td>
+                <td align="center">23</td>
+                <td align="center">24</td>
+                <td align="center">25</td>
+                <td align="center">26</td>
             </tr>
             <tr>
-                <td>27</td>
-                <td>28</td>
-                <td>29</td>
-                <td>30</td>
-                <td>31</td>
-                <td></td>
-                <td></td>
+                <td align="center">27</td>
+                <td align="center">28</td>
+                <td align="center">29</td>
+                <td align="center">30</td>
+                <td align="center">31</td>
+                <td align="center"></td>
+                <td align="center"></td>
             </tr>
             <tr>
-                <td></td>
-                <td></td>
-                <td></td>
-                <td></td>
-                <td></td>
-                <td></td>
-                <td></td>
+                <td align="center"></td>
+                <td align="center"></td>
+                <td align="center"></td>
+                <td align="center"></td>
+                <td align="center"></td>
+                <td align="center"></td>
+                <td align="center"></td>
             </tr>
         </tbody>
     </table>
