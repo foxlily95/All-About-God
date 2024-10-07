@@ -86,13 +86,10 @@ table {
     </h2>
     
     <table bgcolor="lightgrey" align="center"
-        cellspacing="30" cellpadding="30">
+        cellspacing="40" cellpadding="40">
  
        <caption align="top">
-            <!-- Here we have used the attribute 
-                that is style and we have colored 
-                the sentence to make it better 
-                depending on the web page-->
+           
         </caption>
  
         
@@ -117,9 +114,9 @@ table {
  
         <tbody>
             <tr>
-                <td></td>
-                <td></td>
-                <td>1</td>
+                <td align="center"></td>
+                <td align="center"></td>
+                <td align="center">1</td>
                 <td>2</td>
                 <td>3</td>
                 <td>4</td>
