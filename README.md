@@ -450,7 +450,7 @@ for (i = 0; i < coll.length; i++) {
     <h3>
       About the Church
     </h3>
-     <iframe width="550" height="400" src="https://www.youtube.com/results?search_query=midpoint+ministry+center+of+chicago?controls=0"></iframe>
+     <iframe width="900" height="500" src="https://www.youtube.com/results?search_query=midpoint+ministry+center+of+chicago?controls=0"></iframe>
    </div>
     
    <div id="about">
