@@ -389,6 +389,30 @@ table {
           <br>
          <a href="#calendar">Back to Calendar</a>
       </div>
+
+      <button type="button" class="collapsible" id="8">October 8, 2024 Tuesday Devotion</button>
+      <div class="content">
+        <p>
+          <h4>Proverbs 4:20-22 <br> 
+           My son, pay attention to what I say; turn your ear to my words. Do not let them out of your sight, keep them within your heart; for they are life to 
+           those who find them and health to one’s whole body.
+          </h4>
+          </p>
+          <p>
+          <h4>Cross References:</h4>
+          James 3:13<br>
+          Who is wise and understanding among you? Let them show it by their good life, by deeds done in the humility that comes from wisdom.<br>
+          </p>
+          <h4>Reflection</h4>
+          <p>
+          to be uploaded soon..
+          </p>
+          <p>
+          
+          </p>
+          <br>
+         <a href="#calendar">Back to Calendar</a>
+      </div>
       
 <script>
 var coll = document.getElementsByClassName("collapsible");
