@@ -59,7 +59,7 @@ table {
       <li><a href="#home">Home       |</a></li>
       <li><a href="#devo">Daily Bible Devotions       |</a></li>
       <li><a href="#projects">Projects      |</a></li>
-      <li><a href="church">About the Church   |</a></li>
+      <li><a href="#church">About the Church   |</a></li>
       <li><a href="#about">About Us       |</a></li>
       <li><a href="#testimonies">Our Testimonies       |</a></li>
       <li><a href="#contact">Contact</a></li>
