@@ -73,7 +73,7 @@ table {
     </p>
    </div>
   
-   <div style="width: 50%; height: 300px; float: left; background:;">
+   <div style="width: 50%; height: 300px; float: left;">
        <h3>
         Notice to the Public
        </h3>
