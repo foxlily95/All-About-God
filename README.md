@@ -472,6 +472,7 @@ for (i = 0; i < coll.length; i++) {
         </h3> 
         <h4><p>Jim's Personal Encounter with God</p></h4>
         <h4><p>Jehan's Personal Encounter with God</p></h4>
+        </div>
 
         <div id="contact">
         <h3>
@@ -482,7 +483,6 @@ for (i = 0; i < coll.length; i++) {
          href="mailto:jimcancio32@gmail.com">jimcancio32@gmail.com</a>
         </p>
         </div> 
-        </div>
       </div>
    </div>
      
