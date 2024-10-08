@@ -73,7 +73,7 @@ table {
     </p>
    </div>
   
-   <div style="width: 50%; height: 300px; float: left; background: green;">
+   <div style="width: 50%; height: 300px; float: left; background:;">
        <h3>
         Notice to the Public
        </h3>
@@ -84,13 +84,7 @@ table {
        </p>
    </div>
 
-<div id="devo">
-        <h3>
-        Daily Bible Devotion
-        </h3>  
-</div>
-
-<div style="margin-left: 50%; height: 300px; background: blue;">
+<div style="margin-left: 50%; height: 300px; background:;">
 <h3 align="" style="color: black;">
         October 2024
 </h3>
@@ -180,6 +174,12 @@ table {
             </tr>
         </tbody>
     </table>
+</div>
+
+<div id="devo">
+        <h3>
+        Daily Bible Devotion
+        </h3>  
 </div>
         <button type="button" class="collapsible" id="1">October 1, 2024 Tuesday Devotion</button>
         <div class="content">
