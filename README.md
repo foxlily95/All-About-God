@@ -59,6 +59,7 @@ table {
       <li><a href="#home">Home       |</a></li>
       <li><a href="#devo">Daily Bible Devotions       |</a></li>
       <li><a href="#projects">Projects      |</a></li>
+      <li><a href="church">About the Church   |</a></li>
       <li><a href="#about">About Us       |</a></li>
       <li><a href="#testimonies">Our Testimonies       |</a></li>
       <li><a href="#contact">Contact</a></li>
@@ -444,6 +445,12 @@ for (i = 0; i < coll.length; i++) {
         <p>As it is written in the Bible - 
         <h4>2 Corinthians 9:7 Each one must give as he has decided in his heart, not reluctantly or under compulsion, for God loves a cheerful giver.</h4>
         Thank you so much to all the people who without a hesitant donated these items to give joy and happiness to the recipients.. for God's glory</p>
+   </div>
+   <div id="church">
+    <h3>
+      About the Church
+    </h3>
+     <iframe width="550" height="400" src="https://www.youtube.com/results?search_query=midpoint+ministry+center+of+chicago?controls=0"></iframe>
    </div>
     
    <div id="about">
