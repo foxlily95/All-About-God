@@ -84,7 +84,7 @@ table {
        </p>
    </div>
 
-<div style="margin-left: 60%; height: 300px; float: left; background:;">
+<div style="margin-left: 60%; height: 300px; background:;">
 <h3 align="" style="color: black;">
         October 2024
 </h3>
