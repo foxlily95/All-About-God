@@ -465,17 +465,19 @@ for (i = 0; i < coll.length; i++) {
         <p>For any inquiries, please feel free to <a href="#contact">Contact Us</a>
         <br>Thank you so much and God bless
         </p>
-     </div>
-   </div>
-     
-   <div id="testimonies">
+
+        <div id="testimonies">
         <h3>
         Our Testimonies 
         </h3> 
         <h4><p>Jim's Personal Encounter with God</p></h4>
         <h4><p>Jehan's Personal Encounter with God</p></h4>
-    </div>
+        </div>
+       
+     </div>
+   </div>
      
+        
    <div id="contact">
         <h3>
         Contact
