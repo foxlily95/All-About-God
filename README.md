@@ -73,7 +73,7 @@ table {
     </p>
    </div>
   
-   <div style="width: 40%; height: 300px; float: right; background:;">
+   <div style="width: 50%; height: 300px; float: left; background:;">
        <h3>
         Notice to the Public
        </h3>
@@ -84,7 +84,7 @@ table {
        </p>
    </div>
 
-<div style="margin-left: 60%; height: 300px; background:;">
+<div style="margin-left: 50%; height: 300px; background:;">
 <h3 align="" style="color: black;">
         October 2024
 </h3>
