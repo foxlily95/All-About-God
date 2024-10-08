@@ -438,7 +438,7 @@ for (i = 0; i < coll.length; i++) {
         <h3>
         Projects
         </h3>  
-        <img src="Screenshot 2024-10-04 142040.png" width="" height="" alt="Donations">
+        <img src="Screenshot 2024-10-04 142040.png" width="1000" height="1000" alt="Donations">
         <p>Through the initiatives of Jim Cancio and collaborate effort with the Chicago Filipino House Church under the International Churches of Christ in 
         Chicago, with their generous heart and kindness, boxes of donations will be given to the church members of ICOC Angeles City and ICOC Laguna in the 
         Philippines. </p>
@@ -450,7 +450,7 @@ for (i = 0; i < coll.length; i++) {
     <h3>
       About the Church
     </h3>
-     <iframe width="900" height="500" src="https://www.youtube.com/results?search_query=midpoint+ministry+center+of+chicago?controls=0"></iframe>
+     <iframe width="1000" height="500" src="https://www.youtube.com/results?search_query=midpoint+ministry+center+of+chicago?controls=0"></iframe>
    </div>
     
    <div id="about">
