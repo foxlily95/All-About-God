@@ -90,6 +90,7 @@ table {
         </h3>  
 </div>
 
+<div style="margin-left: 50%; height: 100px; background: blue;">
 <h3 align="" style="color: black;">
         October 2024
 </h3>
@@ -179,7 +180,7 @@ table {
             </tr>
         </tbody>
     </table>
-
+</div>
         <button type="button" class="collapsible" id="1">October 1, 2024 Tuesday Devotion</button>
         <div class="content">
          <p>
