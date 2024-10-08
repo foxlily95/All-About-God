@@ -450,10 +450,10 @@ for (i = 0; i < coll.length; i++) {
         <h3>
         About Us
         </h3>
-     <div style="width: 50%; height: 550px; float: left;>
+     <div style="width: 50%; height: 550px; float: left;">
         <img src="457699194_865658668995187_7061818248275211889_n.jpg" width="400" height="550" alt="Jim and Jehan">
      </div>
-     <div style="margin-left: 50%; height: 550px;>
+     <div style="margin-left: 50%; height: 550px;">
         <p>Hi, we're Jim and Jehan and are both believers of our Lord Jesus. We intend to spread the gospel of the Lord and His goodness in our life through this 
            website. We hope to inspire, encourage and uplift the spirit of those who read our Bible-driven devotion and our stories about our personal encounter 
            with God. And we pray that as you go through the reading materials, may the Holy Spirit touch your heart, heal your soul and draws you closer to our 
