@@ -73,7 +73,7 @@ table {
     </p>
    </div>
   
-   <div style="width: 40%; height: 300px; float: left;">
+   <div style="width: 50%; height: 300px; float: left;">
        <h3>
         Notice to the Public
        </h3>
@@ -84,13 +84,13 @@ table {
        </p>
    </div>
 
-<div style="margin-left: 40%; height: 300px; background:;">
+<div style="margin-left: 50%; height: 300px; background:;">
 <h3 align="" style="color: black;">
         October 2024
 </h3>
     
     <table bgcolor="" class="center"
-        cellspacing="40" cellpadding="40" id="calendar">
+        cellspacing="30" cellpadding="30" id="calendar">
  
        <caption align="top">
            
