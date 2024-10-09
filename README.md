@@ -470,7 +470,7 @@ for (i = 0; i < coll.length; i++) {
     <h3>
       About the Church
     </h3>
-     <iframe width="980" height="500" src="https://www.youtube.com/embed/v=w4NgCZb1rP8&t=623s?controls=0"></iframe>
+     <iframe width="980" height="500" src="https://www.youtube.com/embed/w4NgCZb1rP8&t=623s"></iframe>
    </div>
     
    <div id="about">
