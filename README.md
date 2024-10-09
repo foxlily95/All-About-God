@@ -426,9 +426,6 @@ table {
         in difficulties. For when I am weak, then I am strong.
         </h4>
         </p>
-        <p>
-        <h4></h4>
-        </p>
         <h4>Reflection</h4>
         <p>
         to be uploaded soon..
