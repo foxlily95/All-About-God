@@ -421,9 +421,8 @@ table {
        <div class="content">
         <p>
         <h4>2 Corinthians 12:9-10<br> 
-        9 But he said to me, “My grace is sufficient for you, for my power is made perfect in weakness.” Therefore I will boast all the more gladly about my w 
-        weaknesses, so that Christ’s power may rest on me. <br><br>
-        10 That is why, for Christ’s sake, I delight in weaknesses, in insults, in hardships, in persecutions, 
+        But he said to me, “My grace is sufficient for you, for my power is made perfect in weakness.” Therefore I will boast all the more gladly about my 
+        weaknesses, so that Christ’s power may rest on me. That is why, for Christ’s sake, I delight in weaknesses, in insults, in hardships, in persecutions, 
         in difficulties. For when I am weak, then I am strong.
         </h4>
         </p>
