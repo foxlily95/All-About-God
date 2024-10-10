@@ -217,11 +217,11 @@ table {
          <p>Thus, what we feed our mind becomes our mindset and beliefs, so make it a habbit to read the Bible and apply it to your everyday life to have a 
          renewed and transformed life in Christ. Amen..
          </p> <br>
-         <h3>Button with counter - active/inactive</h3>
+         
          <p>
-         <a href="#" title="Love it" class="btn btn-counter" data-count="0"><span>&#x2764;</span></a>
-         <a href="#" title="Love it" class="btn btn-counter" data-count="0"><span>&#x2764;</span> Love it</a>
+         <a href="#" title="Love it" class="btn btn-counter" data-count="0">&#x2764;</a>
          </p>
+         
          <a href="#calendar">Back to Calendar</a>
         </div>        
         
