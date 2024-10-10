@@ -264,9 +264,8 @@ table {
          renewed and transformed life in Christ. Amen..
          </p> <br>
 
-        <a href="#calendar"> <button class="share-button">Calendar</button></a>
         <button id="share-button" class="share-button" onclick="toggleShareDropdown()">Share</button>
-
+        <a href="#calendar"> <button class="share-button">Calendar</button></a>
         <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
         <div class="share-icons" id="share-icons">
           <button onclick="shareOnFacebook()"><i class="fab fa-facebook-f"></i></button>
