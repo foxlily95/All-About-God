@@ -440,7 +440,12 @@ table {
         <p>
         <h4>Cross References:</h4>
         Romans 12:12<br>
-        Be joyful in hope, patient in affliction, faithful in prayer.<br>
+        Be joyful in hope, patient in affliction, faithful in prayer.<br><br>
+        Matthew 19:26 <br>
+        With men this is impossible, but with God all things are possible. <br><br>
+        1 Corinthians 10:13 <br>
+        No temptation has seized you except what is common to man. And God is faithful; He will not let you be tempted beyond what 
+        you can bear. But when you are tempted, He will also provide a way out so that you can stand up under it.
         </p>
         <h4>Reflection</h4>
         <p>
@@ -459,8 +464,8 @@ table {
         </p>
         <p>We can always run to God through prayers, tell God all the things that are happening in your life and read the word of God so you may be encouraged and 
         find peace and wisdom so you'll be guided by the Holy Spirit on what to do with your situations. God will not give you a situation that you cannot 
-        surpass.. 1 Corinthians 10:13 No temptation has seized you except what is common to man. And God is faithful; he will not let you be tempted beyond what 
-        you can bear. But when you are tempted, he will also provide a way out so that you can stand up under it.</p>
+        surpass.. 1 Corinthians 10:13 No temptation has seized you except what is common to man. And God is faithful; He will not let you be tempted beyond what 
+        you can bear. But when you are tempted, He will also provide a way out so that you can stand up under it.</p>
         <br>
         <a href="#calendar">Back to Calendar</a>
        </div>
