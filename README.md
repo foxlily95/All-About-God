@@ -487,10 +487,15 @@ table {
         </p>
         <h4>Reflection</h4>
         <p>
-        to be uploaded soon..
+        Do you believe that everything that we have came from God? We owe everything to God, we don't possess anything in this world. God gave us all these things 
+        so we may live and surpass everyday's challenges and situations. God blesses us these things so we may use it for His glory and for good works. And when 
+        He blesses us more and abundantly and more than we have prayed for, it's because God saw our generous heart and He want to use us as His channel of 
+        blessings to others. 
         </p>
         <p>
-         
+        Be thankful for all the blessings that we received from God may it be small or big for every good and perfect gift is from above (James 1:17). And let us 
+        use these blessings for good works, for God's glory. God is giving us these abundant blessings for a reason.. to be generous, to help others, to share 
+        your blessings to others so our Father may be lifted up and be glorified.. whatever you do, do everything for the glory of God (1 Corinthians 10:31)
         </p>
         <br>
         <a href="#calendar">Back to Calendar</a>
