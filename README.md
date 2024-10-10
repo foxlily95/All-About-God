@@ -458,7 +458,7 @@ for (i = 0; i < coll.length; i++) {
         <h3>
         Projects
         </h3>  
-        <img src="Screenshot 2024-10-04 142040.png" width="1000" height="1000" alt="Donations">
+        <img src="Screenshot 2024-10-04 142040.png" width="" height="" alt="Donations">
         <p>Through the initiatives of Jim Cancio and collaborate effort with the Chicago Filipino House Church under the International Churches of Christ in 
         Chicago, with their generous heart and kindness, boxes of donations will be given to the church members of ICOC Angeles City and ICOC Laguna in the 
         Philippines. </p>
@@ -471,7 +471,7 @@ for (i = 0; i < coll.length; i++) {
        About the Church
        </h3>
        <h4>International Churches of Christ Chicago - ICOC Chicago</h4>
-       <iframe width="980" height="650" src="https://www.youtube.com/embed/w4NgCZb1rP8" title="YouTube video player" frameborder="0" 
+       <iframe width="980" height="550" src="https://www.youtube.com/embed/w4NgCZb1rP8" title="YouTube video player" frameborder="0" 
        allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross- 
        origin" allowfullscreen></iframe>
     </div>
@@ -480,10 +480,10 @@ for (i = 0; i < coll.length; i++) {
         <h3>
         About Us
         </h3>
-     <div style="width: 50%; height: 550px; float: left;">
+     <div>
         <img src="457699194_865658668995187_7061818248275211889_n.jpg" width="400" height="550" alt="Jim and Jehan">
      </div>
-     <div style="margin-left: 40%; height: 550px;">
+     <div>
         <p>Hi, we're Jim and Jehan and are both believers of our Lord Jesus. We intend to spread the gospel of the Lord and His goodness in our life through this 
            website. We hope to inspire, encourage and uplift the spirit of those who read our Bible-driven devotion and our stories about our personal encounter 
            with God. And we pray that as you go through the reading materials, may the Holy Spirit touch your heart, heal your soul and draws you closer to our 
@@ -495,16 +495,14 @@ for (i = 0; i < coll.length; i++) {
         <p>For any inquiries, please feel free to <a href="#contact">Contact Us</a>
         <br>Thank you so much and God bless
         </p>
+     </div>
 
-        <div id="testimonies">
+     <div id="testimonies">
         <h3>
         Our Testimonies 
         </h3> 
         <h4><p>Jim's Personal Encounter with God</p></h4>
         <h4><p>Jehan's Personal Encounter with God</p></h4>
-        </div>
-
-        
       </div>
 
       <div id="contact">
