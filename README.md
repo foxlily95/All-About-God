@@ -79,7 +79,7 @@ table {
         Notice to the Public
        </h3>
        <p>
-        This website does not promote or sell any product or services<br>
+        This is a non-profit website and it does not promote or sell any product or services<br>
         Everything written in this page are stories about the goodness of God and Spiritual belief<br>
         It does not intend to harm any cultural race, group of people, organization and/or any religious group
        </p>
