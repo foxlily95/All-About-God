@@ -48,6 +48,54 @@ table {
             margin-left: auto;
             margin-right: auto;
             }
+
+.share-button {
+  background-color: #00BFFF;
+  color: #FFFFFF;
+  border: 1px solid #00BFFF;
+  padding: 15px 40px;
+  border-radius: 20px;
+  cursor: pointer;
+  font-size: 18px;
+  font-weight: bold;
+}
+
+.share-button:hover {
+  background-color: #FFFFFF;
+  color: #000000;
+  border-color: #00BFFF;
+}
+
+.share-icons {
+  display: none;
+  flex-wrap: wrap;
+  justify-content: center;
+  margin-top: 20px;
+}
+
+.share-icons.show {
+  display: flex;
+}
+
+.share-icons button {
+  display: inline-block;
+  width: 40px;
+  height: 40px;
+  text-align: center;
+  padding: 0;
+  margin: 5px;
+  border-radius: 50%;
+  background-color: #000000;
+  border: none;
+  cursor: pointer;
+  font-size: 20px;
+  line-height: 40px;
+  color: #FFFFFF;
+}
+
+.share-icons button i {
+  color: #FFFFFF;
+}
 </style>
 </head>
 
@@ -217,52 +265,23 @@ table {
          <p>Thus, what we feed our mind becomes our mindset and beliefs, so make it a habbit to read the Bible and apply it to your everyday life to have a 
          renewed and transformed life in Christ. Amen..
          </p> <br>
+<button id="share-button" class="share-button" onclick="toggleShareDropdown()">
+  Share
+</button>
 
-<table><tr><td style='border-top: 1px solid; border-bottom: 1px solid;'>
-
-<ul class='c-share u-plain-list' style='border 3px solid;'>
-    <li class='c-share__item' style='list-style-type: none; font-family: arial;'><b>Share this post: </b></li>
-
-    <li class='c-share__item'>
-        <a class='c-share__link'
-            href="#" // Add a default fallback maybe, in case JS fails...
-            onclick="
-            this.href = `https://twitter.com/share?text=${encodeURIComponent(document.querySelector('title').textContent)}&amp;url=${window.location.href}`; 
-            window.open(this.href, 'twitter-share', 'width=550, height=300');  
-            if( window.clicky ) clicky.log( this.href, 'Twitter share', 'outbound'); return false;">
-            <span data-icon='ei-sc-twitter' data-size='s' class='c-share__icon'></span>
-            <span class='u-screenreader'>Share on Twitter</span>
-        </a>
-    </li>
-
-    <li class='c-share__item'>
-        <a class='c-share__link'
-            href="#" // Add a default fallback maybe, in case JS fails...
-            onclick="
-            this.href = `https://www.facebook.com/sharer/sharer.php?u=${window.location.href}`;
-            window.open(this.href, 'facebook-share', 'width=580, height=296');
-            if( window.clicky ) clicky.log( this.href, 'Facebook share', 'outbound'); return false;">
-            <span data-icon='ei-sc-facebook' data-size='s' class='c-share__icon'></span>
-            <span class='u-screenreader'>Share on Facebook</span>
-        </a>
-    </li>
-
-    <li class='c-share__item'>
-        <a class='c-share__link'
-            href="#" // Add a default fallback maybe, in case JS fails...
-            onclick="
-            this.href = `https://www.linkedin.com/sharing/share-offsite/?url=${window.location.href}&amptitle=${encodeURIComponent(document.querySelector('title').textContent)}`; 
-            window.open(this.href, 'linkedin-share', 'width=580, height=400');
-            if( window.clicky ) clicky.log( this.href, 'LinkedIn share', 'outbound'); return false;">
-            <span data-icon='ei-sc-linkedin' data-size='s' class='c-share__icon'></span>
-            <span class='u-screenreader'>Share on LinkedIn</span>
-        </a>
-    </li>
-</ul>
-
-</td></tr></table>
-
-        
+<div class="share-icons" id="share-icons">
+  <button onclick="shareOnFacebook()"><i class="fab fa-facebook-f"></i></button>
+  <button onclick="shareOnTwitter()"><i class="fab fa-twitter"></i></button>
+  <button onclick="shareOnPinterest()"><i class="fab fa-pinterest"></i></button>
+  <button onclick="shareOnLinkedIn()"><i class="fab fa-linkedin-in"></i></button>
+  <button onclick="shareOnFlipboard()"><i class="fab fa-flipboard"></i></button>
+  <button onclick="shareOnTelegram()"><i class="fab fa-telegram-plane"></i></button>
+  <button onclick="shareOnWhatsApp()"><i class="fab fa-whatsapp"></i></button>
+  <button onclick="shareOnReddit()"><i class="fab fa-reddit"></i></button>
+  <button onclick="shareViaEmail()"><i class="fas fa-envelope"></i></button>
+  <button onclick="shareNative()"><i class="fas fa-share-alt"></i></button>
+</div>
+       
          <a href="#calendar">Back to Calendar</a>
         </div>        
         
@@ -572,6 +591,79 @@ for (i = 0; i < coll.length; i++) {
     }
   });
 }
+
+function toggleShareDropdown() {
+  var shareIcons = document.getElementById('share-icons');
+  shareIcons.classList.toggle('show');
+}
+
+function shareOnFacebook() {
+  var sharedURL = location.href;
+  var facebookShareURL = 'https://www.facebook.com/sharer/sharer.php?u=' + encodeURIComponent(sharedURL);
+  window.open(facebookShareURL, '_blank');
+}
+
+function shareOnTwitter() {
+  var sharedURL = location.href;
+  var twitterShareURL = 'https://twitter.com/intent/tweet?url=' + encodeURIComponent(sharedURL);
+  window.open(twitterShareURL, '_blank');
+}
+
+function shareOnPinterest() {
+  var sharedURL = location.href;
+  var pinterestShareURL = 'https://www.pinterest.com/pin/create/button/?url=' + encodeURIComponent(sharedURL);
+  window.open(pinterestShareURL, '_blank');
+}
+
+function shareOnLinkedIn() {
+  var sharedURL = location.href;
+  var linkedInShareURL = 'https://www.linkedin.com/sharing/share-offsite/?url=' + encodeURIComponent(sharedURL);
+  window.open(linkedInShareURL, '_blank');
+}
+
+function shareOnFlipboard() {
+  var sharedURL = location.href;
+  var flipboardShareURL = 'https://share.flipboard.com/bookmarklet/popout?v=2&title=&url=' + encodeURIComponent(sharedURL);
+  window.open(flipboardShareURL, '_blank');
+}
+
+function shareOnTelegram() {
+  var sharedURL = location.href;
+  var telegramShareURL = 'https://telegram.me/share/url?url=' + encodeURIComponent(sharedURL);
+  window.open(telegramShareURL, '_blank');
+}
+
+function shareOnWhatsApp() {
+  var sharedURL = location.href;
+  var whatsAppShareURL = 'whatsapp://send?text=' + encodeURIComponent(sharedURL);
+  window.open(whatsAppShareURL, '_blank');
+}
+
+function shareOnReddit() {
+  var sharedURL = location.href;
+  var redditShareURL = 'https://www.reddit.com/submit?url=' + encodeURIComponent(sharedURL);
+  window.open(redditShareURL, '_blank');
+}
+
+function shareViaEmail() {
+  var sharedURL = location.href;
+  var emailSubject = 'Check out this link';
+  var emailBody = 'I found this interesting link and thought you might like it: ' + sharedURL;
+  var mailToLink = 'mailto:?subject=' + encodeURIComponent(emailSubject) + '&body=' + encodeURIComponent(emailBody);
+  window.location.href = mailToLink;
+}
+
+function shareNative() {
+  if (/Android|webOS|iPhone|iPad|iPod|BlackBerry|IEMobile|Opera Mini/i.test(navigator.userAgent)) {
+    // Mobile device, trigger native sharing
+    var sharedURL = location.href;
+    navigator.share({ url: sharedURL })
+      .then(() => console.log('Shared successfully.'))
+      .catch((error) => console.log('Error sharing:', error));
+  } else {
+    console.log('Native sharing not supported on this device.');
+  }
+}  
 </script>
   
    <div id="projects">
