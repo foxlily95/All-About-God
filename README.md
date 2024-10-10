@@ -79,8 +79,8 @@ table {
 
 .share-icons button {
   display: inline-block;
-  width: 40px;
-  height: 40px;
+  width: px;
+  height: px;
   text-align:;
   padding: 0;
   margin: 5px;
