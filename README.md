@@ -90,7 +90,6 @@ table {
   cursor: pointer;
   font-size: 20px;
   line-height: 40px;
-  color: #FFFFFF;
 }
 
 .share-icons button i {
@@ -266,7 +265,7 @@ table {
          renewed and transformed life in Christ. Amen..
          </p> <br>
 
-        <a href="#calendar"> <button class="share-button">Back to Calendar</button></a>
+        <a href="#calendar"> <button class="share-button">Calendar</button></a>
         <button id="share-button" class="share-button" onclick="toggleShareDropdown()">Share</button>
 
         <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
