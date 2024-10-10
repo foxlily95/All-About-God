@@ -437,12 +437,24 @@ table {
         in difficulties. For when I am weak, then I am strong.
         </h4>
         </p>
+        <p>
+        <h4>Cross References:</h4>
+        Romans 12:12<br>
+        Be joyful in hope, patient in affliction, faithful in prayer.<br>
+        </p>
         <h4>Reflection</h4>
         <p>
-        to be uploaded soon..
+        Who can be happy when problems and difficulties in life are encountered. How can someone be thankful on the occurence of different adversities in life. 
+        That is so very natural for us human.. to feel down, sad, emotional, stressed and even depressed. But if we believe in God and we hold on to our faith and 
+        to God's promises, we'll have hope. We need to keep on trusting God, that He is a faithful God and He will never leave nor forsake us - Deuteronomy 31:8
         </p>
         <p>
-         
+        Is there anything too hard for the Lord - Genesis 18:14 God created the universe and all the planets and creatures on it including us. Imagine the details 
+        and all the parts of our body and their functionalities. God carefully planned and created all these things. So do you think God does not know all our 
+        worries, problems and situations? Everything has its purpose, just try to reflect what God might be making us realize on every situation. God allows us to 
+        experience these predicament so we may be able to realize that we need God, we are nothing without God and all that we have comes from God. And so when we 
+        feel down, we can always run to our Father and we can experience His faithfulness, His goodness and love. And so we become strong through our faith in 
+        God, because we know that we have a powerful and as it is written in Matthew 19:26: “With men this is impossible, but with God all things are possible.” 
         </p>
         <br>
         <a href="#calendar">Back to Calendar</a>
