@@ -415,14 +415,24 @@ table {
         <p>
         <h4>Cross References:</h4>
         James 3:13<br>
-        Who is wise and understanding among you? Let them show it by their good life, by deeds done in the humility that comes from wisdom.<br>
+        Who is wise and understanding among you? Let them show it by their good life, by deeds done in the humility that comes from wisdom.<br><br>
+        Joshua 1:8<br>
+        Keep this Book of the Law always on your lips; meditate on it day and night, so that you may be careful to do everything written in it. Then you will be 
+        prosperous and successful.
         </p>
         <h4>Reflection</h4>
         <p>
-        to be uploaded soon..
+        As Christians and believers of God, we should not forget or neglect to read and reflect on His word. Make it a habbit everyday to read even at least one 
+        verse from the Bible so we may be guided by His words and we may apply it and guard our thoughts, our heart and intention, our words and actions. If we 
+        want to live in peace, we should understand the word of God. Moreover, it will make us wise and more understanding; and we will be able to handle and deal 
+        everything with love and humility and gentleness. As we read and practice the word of God everyday, the fruit of the Holy Spirit becomes evident in our 
+        life and it brings healing to our soul,  our mind and our body as well because we can fully trust God and surrender everything to Him 
         </p>
         <p>
-         
+        We get to know more about God as we meditate on His word day and night, understand His purpose on our life and we'll have a deeper connection with Him. We 
+        may sometimes find the word of God difficult to understand but we can pray and ask for the Holy Spirit to help us understand God's word. We may also look 
+        for Bible studies, lessons and reflections so we may learn more about the Word of God and/or attend Bible talks and have some fellowship with the brothers 
+        and sisters from the church and gain insights from them 
         </p>
         <br>
         <a href="#calendar">Back to Calendar</a>
