@@ -454,8 +454,13 @@ table {
         worries, problems and situations? Everything has its purpose, just try to reflect what God might be making us realize on every situation. God allows us to 
         experience these predicament so we may be able to realize that we need God, we are nothing without God and all that we have comes from God. And so when we 
         feel down, we can always run to our Father and we can experience His faithfulness, His goodness and love. And so we become strong through our faith in 
-        God, because we know that we have a powerful and as it is written in Matthew 19:26: “With men this is impossible, but with God all things are possible.” 
+        God, because we know that we have a powerful God and as it is written in Matthew 19:26: “With men this is impossible, but with God all things are 
+        possible.” 
         </p>
+        <p>We can always run to God through prayers, tell God all the things that are happening in your life and read the word of God so you may be encouraged and 
+        find peace and wisdom so you'll be guided by the Holy Spirit on what to do with your situations. God will not give you a situation that you cannot 
+        surpass.. 1 Corinthians 10:13 No temptation has seized you except what is common to man. And God is faithful; he will not let you be tempted beyond what 
+        you can bear. But when you are tempted, he will also provide a way out so that you can stand up under it.</p>
         <br>
         <a href="#calendar">Back to Calendar</a>
        </div>
