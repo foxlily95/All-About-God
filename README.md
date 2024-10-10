@@ -384,10 +384,19 @@ table {
         </p>
         <h4>Reflection</h4>
         <p>
-        to be uploaded soon..
+        Of all God's creation, we are the most precious and wonderful one. Imagine that, God created man in His own image and likeness - Genesis 1:27. From the 
+        very beginning, God expressed His great love for us that we were formed based from His own image, so when we look at our neighbors or brothers or sisters, 
+        we can see God in them.
         </p>
         <p>
-          
+        And we know that God is good all the time.. His goodness is always with us (Psalm 23:6). Everything good comes from God (James 1:17). He fills our hungry 
+        souls with good things (Psalm 107:8-9). He is good, does good, and gives good gifts to his children (Psalm 119:68, Luke 11:13). Therefore God created us, 
+        designed us and formed us to be good all the time as well. We just need to put that in our mind
+        </p>
+        <p>
+        We are God's creation and we possess His goodness. Thus, we should live and carry on in our life His goodness for his glory and that is our mission as 
+        Christians - Matthew 5:16 In the same way, let your light shine before others, so that they may see your good works and give glory to your Father who is 
+        in heaven. 
         </p>
         <br>
         <a href="#calendar">Back to Calendar</a>
@@ -418,7 +427,7 @@ table {
        </div>
 
       <button type="button" class="collapsible" id="9">October 9, 2024 Wednesday Devotion</button>
-       <div class="content" allow="web-share">
+       <div class="content">
         <p>
         <h4>2 Corinthians 12:9-10<br> 
         But he said to me, “My grace is sufficient for you, for my power is made perfect in weakness.” Therefore I will boast all the more gladly about my 
