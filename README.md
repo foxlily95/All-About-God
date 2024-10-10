@@ -133,9 +133,9 @@ table {
                 <td align="center"><a href="#7">7</a></td>
                 <td align="center"><a href="#8">8</a></td>
                 <td align="center"><a href="#9">9</a></td>
-                <td align="center">10</td>
-                <td align="center">11</td>
-                <td align="center">12</td>
+                <td align="center"><a href="#10">10</a></td>
+                <td align="center"><a href="#11">11</a></td>
+                <td align="center"><a href="#12">12</a></td>
             </tr>
             <tr>
                 <td align="center">13</td>
@@ -466,6 +466,29 @@ table {
         find peace and wisdom so you'll be guided by the Holy Spirit on what to do with your situations. God will not give you a situation that you cannot 
         surpass.. 1 Corinthians 10:13 No temptation has seized you except what is common to man. And God is faithful; He will not let you be tempted beyond what 
         you can bear. But when you are tempted, He will also provide a way out so that you can stand up under it.</p>
+        <br>
+        <a href="#calendar">Back to Calendar</a>
+       </div>
+
+      <button type="button" class="collapsible" id="10">October 10, 2024 Tuesday Devotion</button>
+       <div class="content">
+        <p>
+        <h4>2 Corinthians 9:8 <br> 
+        And God is able to bless you abundantly, so that in all things at all times, having all that you need, you will abound in every good work.
+        </h4>
+        </p>
+        <p>
+        <h4>Cross References:</h4>
+        <br>
+        <br>
+        </p>
+        <h4>Reflection</h4>
+        <p>
+        to be uploaded soon..
+        </p>
+        <p>
+         
+        </p>
         <br>
         <a href="#calendar">Back to Calendar</a>
        </div>
