@@ -217,6 +217,52 @@ table {
          <p>Thus, what we feed our mind becomes our mindset and beliefs, so make it a habbit to read the Bible and apply it to your everyday life to have a 
          renewed and transformed life in Christ. Amen..
          </p> <br>
+
+<table><tr><td style='border-top: 1px solid; border-bottom: 1px solid;'>
+
+<ul class='c-share u-plain-list' style='border 3px solid;'>
+    <li class='c-share__item' style='list-style-type: none; font-family: arial;'><b>Share this post: </b></li>
+
+    <li class='c-share__item'>
+        <a class='c-share__link'
+            href="#" // Add a default fallback maybe, in case JS fails...
+            onclick="
+            this.href = `https://twitter.com/share?text=${encodeURIComponent(document.querySelector('title').textContent)}&amp;url=${window.location.href}`; 
+            window.open(this.href, 'twitter-share', 'width=550, height=300');  
+            if( window.clicky ) clicky.log( this.href, 'Twitter share', 'outbound'); return false;">
+            <span data-icon='ei-sc-twitter' data-size='s' class='c-share__icon'></span>
+            <span class='u-screenreader'>Share on Twitter</span>
+        </a>
+    </li>
+
+    <li class='c-share__item'>
+        <a class='c-share__link'
+            href="#" // Add a default fallback maybe, in case JS fails...
+            onclick="
+            this.href = `https://www.facebook.com/sharer/sharer.php?u=${window.location.href}`;
+            window.open(this.href, 'facebook-share', 'width=580, height=296');
+            if( window.clicky ) clicky.log( this.href, 'Facebook share', 'outbound'); return false;">
+            <span data-icon='ei-sc-facebook' data-size='s' class='c-share__icon'></span>
+            <span class='u-screenreader'>Share on Facebook</span>
+        </a>
+    </li>
+
+    <li class='c-share__item'>
+        <a class='c-share__link'
+            href="#" // Add a default fallback maybe, in case JS fails...
+            onclick="
+            this.href = `https://www.linkedin.com/sharing/share-offsite/?url=${window.location.href}&amptitle=${encodeURIComponent(document.querySelector('title').textContent)}`; 
+            window.open(this.href, 'linkedin-share', 'width=580, height=400');
+            if( window.clicky ) clicky.log( this.href, 'LinkedIn share', 'outbound'); return false;">
+            <span data-icon='ei-sc-linkedin' data-size='s' class='c-share__icon'></span>
+            <span class='u-screenreader'>Share on LinkedIn</span>
+        </a>
+    </li>
+</ul>
+
+</td></tr></table>
+
+        
          <a href="#calendar">Back to Calendar</a>
         </div>        
         
