@@ -53,10 +53,10 @@ table {
   background-color: #00BFFF;
   color: #FFFFFF;
   border: 1px solid #00BFFF;
-  padding: 15px 40px;
+  padding: 12px 30px;
   border-radius: 16px;
   cursor: pointer;
-  font-size: 14px;
+  font-size: 16px;
   font-weight:;
 }
 
