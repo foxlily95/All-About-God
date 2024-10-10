@@ -54,10 +54,10 @@ table {
   color: #FFFFFF;
   border: 1px solid #00BFFF;
   padding: 15px 40px;
-  border-radius: 20px;
+  border-radius: 16px;
   cursor: pointer;
-  font-size: 18px;
-  font-weight: bold;
+  font-size: 14px;
+  font-weight:;
 }
 
 .share-button:hover {
@@ -265,22 +265,18 @@ table {
          <p>Thus, what we feed our mind becomes our mindset and beliefs, so make it a habbit to read the Bible and apply it to your everyday life to have a 
          renewed and transformed life in Christ. Amen..
          </p> <br>
-<button id="share-button" class="share-button" onclick="toggleShareDropdown()">
-  Share
-</button>
-<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
-<div class="share-icons" id="share-icons">
-  <button onclick="shareOnFacebook()"><i class="fab fa-facebook-f"></i></button>
-  <button onclick="shareOnTwitter()"><i class="fab fa-twitter"></i></button>
-  <button onclick="shareOnPinterest()"><i class="fab fa-pinterest"></i></button>
-  <button onclick="shareOnLinkedIn()"><i class="fab fa-linkedin-in"></i></button>
-  <button onclick="shareOnWhatsApp()"><i class="fab fa-whatsapp"></i></button>
-</div>
 
-       
-  
+        <a href="#calendar"> <button class="share-button">Back to Calendar</button></a>
+        <button id="share-button" class="share-button" onclick="toggleShareDropdown()">Share</button>
 
-         <a href="#calendar"> <button class="share-button">Back to Calendar</button></a>
+        <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+        <div class="share-icons" id="share-icons">
+          <button onclick="shareOnFacebook()"><i class="fab fa-facebook-f"></i></button>
+          <button onclick="shareOnTwitter()"><i class="fab fa-twitter"></i></button>
+          <button onclick="shareOnPinterest()"><i class="fab fa-pinterest"></i></button>
+          <button onclick="shareOnLinkedIn()"><i class="fab fa-linkedin-in"></i></button>
+          <button onclick="shareOnWhatsApp()"><i class="fab fa-whatsapp"></i></button>
+        </div>
         </div>        
         
       <button type="button" class="collapsible" id="2">October 2, 2024 Wednesday Devotion</button>
