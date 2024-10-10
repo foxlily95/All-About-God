@@ -470,7 +470,7 @@ table {
         <a href="#calendar">Back to Calendar</a>
        </div>
 
-      <button type="button" class="collapsible" id="10">October 10, 2024 Tuesday Devotion</button>
+      <button type="button" class="collapsible" id="10">October 10, 2024 Thursday Devotion</button>
        <div class="content">
         <p>
         <h4>2 Corinthians 9:8 <br> 
@@ -479,7 +479,10 @@ table {
         </p>
         <p>
         <h4>Cross References:</h4>
-        <br>
+        James 1:17<br>
+        Every good and perfect gift is from above, coming down from the Father of the heavenly lights, who does not change like shifting shadows.<br><br>
+        Ephesians 3:20<br>
+        Now to him who is able to do immeasurably more than all we ask or imagine, according to his power that is at work within us.<br>
         <br>
         </p>
         <h4>Reflection</h4>
