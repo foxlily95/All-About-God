@@ -418,7 +418,7 @@ table {
        </div>
 
       <button type="button" class="collapsible" id="9">October 9, 2024 Wednesday Devotion</button>
-       <div class="content">
+       <div class="content" allow="web-share">
         <p>
         <h4>2 Corinthians 12:9-10<br> 
         But he said to me, “My grace is sufficient for you, for my power is made perfect in weakness.” Therefore I will boast all the more gladly about my 
