@@ -467,14 +467,14 @@ for (i = 0; i < coll.length; i++) {
         Thank you so much to all the people who without a hesitant donated these items to give joy and happiness to the recipients.. for God's glory</p>
    </div>
    <div id="church">
-    <h3>
-      About the Church
-    </h3>
-     <iframe width="980" height="550" src="https://www.youtube.com/embed/w4NgCZb1rP8" title="YouTube video player" frameborder="0" 
-     allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" 
-     allowfullscreen></iframe>
-     
-   </div>
+       <h3>
+       About the Church
+       </h3>
+       <h4>International Churches of Christ Chicago - ICOC Chicago</h4>
+       <iframe width="980" height="650" src="https://www.youtube.com/embed/w4NgCZb1rP8" title="YouTube video player" frameborder="0" 
+       allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross- 
+       origin" allowfullscreen></iframe>
+    </div>
     
    <div id="about">
         <h3>
