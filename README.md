@@ -276,8 +276,11 @@ table {
   <button onclick="shareOnLinkedIn()"><i class="fab fa-linkedin-in"></i></button>
   <button onclick="shareOnWhatsApp()"><i class="fab fa-whatsapp"></i></button>
 </div>
+
        
-         <a href="#calendar">Back to Calendar</a>
+  
+
+         <a href="#calendar"> <button class="share-button">Back to Calendar</button></a>
         </div>        
         
       <button type="button" class="collapsible" id="2">October 2, 2024 Wednesday Devotion</button>
