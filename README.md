@@ -69,7 +69,7 @@ table {
 .share-icons {
   display: none;
   flex-wrap: wrap;
-  justify-content: center;
+  justify-content: left;
   margin-top: 20px;
 }
 
@@ -85,11 +85,11 @@ table {
   padding: 0;
   margin: 5px;
   border-radius: 50%;
-  background-color: #000000;
+  background-color:;
   border: none;
   cursor: pointer;
-  font-size: 20px;
-  line-height: 40px;
+  font-size:;
+  line-height:;
 }
 
 .share-icons button i {
