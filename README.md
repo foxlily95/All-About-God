@@ -393,7 +393,7 @@ table {
         souls with good things (Psalm 107:8-9). He is good, does good, and gives good gifts to his children (Psalm 119:68, Luke 11:13). Therefore God created us, 
         designed us and formed us to be good all the time as well. We just need to put that in our mind and put that into practice. We cannot be perfect in an 
         instant but when we do that everyday, doing at least one good thing everyday, it will become a habbit and eventually it will become our behavior and our 
-        character.
+        character... and be like Christ.
         </p>
         <p>
         We are God's creation and we possess His goodness. Thus, we should live and carry on in our life His goodness for his glory and that is our mission as 
