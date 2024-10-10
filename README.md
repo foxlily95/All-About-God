@@ -268,18 +268,13 @@ table {
 <button id="share-button" class="share-button" onclick="toggleShareDropdown()">
   Share
 </button>
-
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
 <div class="share-icons" id="share-icons">
   <button onclick="shareOnFacebook()"><i class="fab fa-facebook-f"></i></button>
   <button onclick="shareOnTwitter()"><i class="fab fa-twitter"></i></button>
   <button onclick="shareOnPinterest()"><i class="fab fa-pinterest"></i></button>
   <button onclick="shareOnLinkedIn()"><i class="fab fa-linkedin-in"></i></button>
-  <button onclick="shareOnFlipboard()"><i class="fab fa-flipboard"></i></button>
-  <button onclick="shareOnTelegram()"><i class="fab fa-telegram-plane"></i></button>
   <button onclick="shareOnWhatsApp()"><i class="fab fa-whatsapp"></i></button>
-  <button onclick="shareOnReddit()"><i class="fab fa-reddit"></i></button>
-  <button onclick="shareViaEmail()"><i class="fas fa-envelope"></i></button>
-  <button onclick="shareNative()"><i class="fas fa-share-alt"></i></button>
 </div>
        
          <a href="#calendar">Back to Calendar</a>
