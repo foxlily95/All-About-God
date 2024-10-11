@@ -297,11 +297,11 @@ table {
         <a href="#calendar"> <button class="share-button">Calendar</button></a>
         <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
         <div class="share-icons" id="share-icons">
-          <button onclick="shareOnFacebook()"><i class="fab fa-facebook-f"></i></button>
-          <button onclick="shareOnTwitter()"><i class="fab fa-twitter"></i></button>
-          <button onclick="shareOnPinterest()"><i class="fab fa-pinterest"></i></button>
-          <button onclick="shareOnLinkedIn()"><i class="fab fa-linkedin-in"></i></button>
-          <button onclick="shareOnWhatsApp()"><i class="fab fa-whatsapp"></i></button>
+          <button onclick="shareOnFacebook()"><i class="fa fa-facebook-f"></i></button>
+          <button onclick="shareOnTwitter()"><i class="fa fa-twitter"></i></button>
+          <button onclick="shareOnPinterest()"><i class="fa fa-pinterest"></i></button>
+          <button onclick="shareOnLinkedIn()"><i class="fa fa-linkedin-in"></i></button>
+          <button onclick="shareOnWhatsApp()"><i class="fa fa-whatsapp"></i></button>
           <a href="#" class="fa fa-facebook"></a>
           <a href="#" class="fa fa-twitter"></a>
         </div>
