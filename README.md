@@ -301,9 +301,6 @@ table {
           <button onclick="shareOnTwitter()"><i class="fa fa-twitter"></i></button>
           <button onclick="shareOnPinterest()"><i class="fa fa-pinterest"></i></button>
           <button onclick="shareOnLinkedIn()"><i class="fa fa-linkedin-in"></i></button>
-          <button onclick="shareOnWhatsApp()"><i class="fa fa-whatsapp"></i></button>
-          <a href="#" class="fa fa-facebook"></a>
-          <a href="#" class="fa fa-twitter"></a>
         </div>
         </div>        
         
