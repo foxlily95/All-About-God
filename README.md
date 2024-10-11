@@ -3,6 +3,7 @@
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">  
 <link rel="stylesheet" href="./style.css">
 <style>
 body {background-color: white;}
@@ -93,6 +94,34 @@ table {
 
 .share-icons button i {
   color: #FFFFFF;
+}
+
+/* Style all font awesome icons */
+.fa {
+  padding: 20px;
+  font-size: 30px;
+  width: 50px;
+  text-align: center;
+  text-decoration: none;
+}
+
+/* Add a hover effect if you want */
+.fa:hover {
+  opacity: 0.7;
+}
+
+/* Set a specific color for each brand */
+
+/* Facebook */
+.fa-facebook {
+  background: #3B5998;
+  color: white;
+}
+
+/* Twitter */
+.fa-twitter {
+  background: #55ACEE;
+  color: white;
 }
 </style>
 </head>
@@ -273,6 +302,8 @@ table {
           <button onclick="shareOnPinterest()"><i class="fab fa-pinterest"></i></button>
           <button onclick="shareOnLinkedIn()"><i class="fab fa-linkedin-in"></i></button>
           <button onclick="shareOnWhatsApp()"><i class="fab fa-whatsapp"></i></button>
+          <a href="#" class="fa fa-facebook"></a>
+          <a href="#" class="fa fa-twitter"></a>
         </div>
         </div>        
         
