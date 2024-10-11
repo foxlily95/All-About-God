@@ -85,7 +85,7 @@ table {
   padding: 0;
   margin: 5px;
   border-radius: 50%;
-  background-color:;
+  background-color:#7d7c7c;
   border: none;
   cursor: pointer;
   font-size:;
