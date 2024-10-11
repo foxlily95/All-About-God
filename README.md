@@ -566,7 +566,30 @@ table {
         <br>
         <a href="#calendar">Back to Calendar</a>
        </div>
-      
+
+      <button type="button" class="collapsible" id="11">October 11, 2024 Friday Devotion</button>
+       <div class="content">
+        <p>
+        <h4>Psalm 9:10 <br> 
+        Those who know your name trust in you, for you, LORD, have never forsaken those who seek you.
+        </h4>
+        </p>
+        <p>
+        <h4>Cross References:</h4>
+        Isaiah 40:31<br>
+        But those who hope in the Lord will renew their strength. They will soar on wings like eagles; they will run and not grow weary, they will walk and not be 
+        faint.<br><br>
+        </p>
+        <h4>Reflection</h4>
+        <p>
+        to be uploaded soon..
+        </p>
+        <p>
+        </p>
+        <br>
+        <a href="#calendar">Back to Calendar</a>
+       </div>
+
 <script>
 var coll = document.getElementsByClassName("collapsible");
 var i;
