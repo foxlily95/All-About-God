@@ -85,7 +85,7 @@ table {
   padding: 0;
   margin: 5px;
   border-radius: 50%;
-  background-color:#7d7c7c;
+  background-color:;
   border: none;
   cursor: pointer;
   font-size:;
@@ -299,7 +299,6 @@ table {
         <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
         <div class="share-icons" id="share-icons">
           <button onclick="shareOnFacebook()"><i class="fa fa-facebook-f"></i></button>
-          /*<button onclick="shareOnTwitter()"><i class="fa fa-twitter"></i></button>*/
           <button onclick="shareOnPinterest()"><i class="fa fa-pinterest"></i></button>
           <button onclick="shareOnInstagram()"><i class="fa fa-instagram"></i></button>
         </div>
