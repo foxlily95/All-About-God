@@ -687,7 +687,7 @@ table {
         <a href="#calendar">Back to Calendar</a>
        </div>
 
-       <button type="button" class="collapsible" id="16">October 16, 2024 Friday Wednesday</button>
+       <button type="button" class="collapsible" id="16">October 16, 2024 Wednesday Devotion</button>
        <div class="content">
         <p>
         <h4>1 John 1:9 <br> 
