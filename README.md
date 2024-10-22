@@ -226,7 +226,7 @@ table {
                 <td align="center"><a href="#20">20</a></td>
                 <td align="center"><a href="#21">21</a></td>
                 <td align="center"><a href="#22">22</a></td>
-                <td align="center">23</td>
+                <td align="center"><a href="#23">23</a></td>
                 <td align="center">24</td>
                 <td align="center">25</td>
                 <td align="center">26</td>
@@ -759,9 +759,8 @@ table {
        <button type="button" class="collapsible" id="20">October 20, 2024 Sunday Devotion</button>
        <div class="content">
         <p>
-        <h4>Psalm 139:16-17 <br> 
-        Your eyes saw my unformed body; all the days ordained for me were written in your book before one of them came to be. How precious to me are your houghts, 
-        God! How vast is the sum of them!
+        <h4>Psalm 55:22 <br> 
+        Cast your cares on the Lord and he will sustain you; he will never let the righteous be shaken.
         </h4>
         </p>
         <h4>Reflection</h4>
@@ -777,9 +776,8 @@ table {
        <button type="button" class="collapsible" id="21">October 21, 2024 Monday Devotion</button>
        <div class="content">
         <p>
-        <h4>Psalm 139:16-17 <br> 
-        Your eyes saw my unformed body; all the days ordained for me were written in your book before one of them came to be. How precious to me are your houghts, 
-        God! How vast is the sum of them!
+        <h4>Psalm 31:24 <br> 
+        Be strong and take heart, all you who hope in the Lord.
         </h4>
         </p>
         <p>
@@ -799,14 +797,26 @@ table {
        <button type="button" class="collapsible" id="22">October 22, 2024 Tuesday Devotion</button>
        <div class="content">
         <p>
-        <h4>Psalm 139:16-17 <br> 
-        Your eyes saw my unformed body; all the days ordained for me were written in your book before one of them came to be. How precious to me are your houghts, 
-        God! How vast is the sum of them!
+        <h4>Romans 15:13 <br> 
+        May the God of hope fill you with all joy and peace as you trust in Him, so that you may overflow with hope by the power of the Holy Spirit.
         </h4>
         </p>
+        <h4>Reflection</h4>
         <p>
-        <h4>Cross References:</h4>
-        <br><br>
+        to be uploaded soon..
+        </p>
+        <p>
+        </p>
+        <br>
+        <a href="#calendar">Back to Calendar</a>
+       </div>
+
+       <button type="button" class="collapsible" id="23">October 23, 2024 Wednesday Devotion</button>
+       <div class="content">
+        <p>
+        <h4>Isaiah 26:3 <br> 
+        You will keep in perfect peace those whose minds are steadfast, because they trust in you.
+        </h4>
         </p>
         <h4>Reflection</h4>
         <p>
