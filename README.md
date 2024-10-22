@@ -223,9 +223,9 @@ table {
                 <td align="center"><a href="#19">19</a></td>
             </tr>
             <tr>
-                <td align="center">20</td>
-                <td align="center">21</td>
-                <td align="center">22</td>
+                <td align="center"><a href="#20">20</a></td>
+                <td align="center"><a href="#21">21</a></td>
+                <td align="center"><a href="#22">22</a></td>
                 <td align="center">23</td>
                 <td align="center">24</td>
                 <td align="center">25</td>
@@ -469,8 +469,8 @@ table {
         <h4>Reflection</h4>
         <p>
         Of all God's creation, we are the most precious and wonderful one. Imagine that, God created man in His own image and likeness - Genesis 1:27. From the 
-        very beginning, God expressed His great love for us that we were formed based from His own image, so when we look at our neighbors or brothers or sisters, 
-        we can see God in them.
+        very beginning, God expressed His great love for us that we were formed based from His own image, so when we look at our neighbors or brothers or 
+        sisters, we can see God in them.
         </p>
         <p>
         And we know that God is good all the time.. His goodness is always with us (Psalm 23:6). Everything good comes from God (James 1:17). He fills our hungry 
@@ -625,10 +625,6 @@ table {
         being confident of this, that he who began a good work in you will carry it on to completion until the day of Christ Jesus.
         </h4>
         </p>
-        <p>
-        <h4>Cross References:</h4>
-        <br><br>
-        </p>
         <h4>Reflection</h4>
         <p>
         to be uploaded soon..
@@ -643,12 +639,9 @@ table {
        <div class="content">
         <p>
         <h4>Isaiah 40:31 <br> 
-        but those who hope in the Lord will renew their strength. They will soar on wings like eagles; They will run and not grow weary, they will walk and not be faint.
+        but those who hope in the Lord will renew their strength. They will soar on wings like eagles; They will run and not grow weary, they will walk and not 
+        be faint.
         </h4>
-        </p>
-        <p>
-        <h4>Cross References:</h4>
-        <br><br>
         </p>
         <h4>Reflection</h4>
         <p>
@@ -667,10 +660,6 @@ table {
         I have told you these things, so that in me you may have peace. In this world you will have trouble. But take heart! I have overcome the world.
         </h4>
         </p>
-        <p>
-        <h4>Cross References:</h4>
-        <br><br>
-        </p>
         <h4>Reflection</h4>
         <p>
         to be uploaded soon..
@@ -687,10 +676,6 @@ table {
         <h4>2 Corinthians 5:17 <br> 
         Therefore, if anyone is in Christ, the new creation has come: The old has gone, the new is here!
         </h4>
-        </p>
-        <p>
-        <h4>Cross References:</h4>
-        <br><br>
         </p>
         <h4>Reflection</h4>
         <p>
@@ -709,10 +694,6 @@ table {
         If we confess our sins, he is faithful and just and will forgive us our sins and purify us from all unrighteousness.
         </h4>
         </p>
-        <p>
-        <h4>Cross References:</h4>
-        <br><br>
-        </p>
         <h4>Reflection</h4>
         <p>
         to be uploaded soon..
@@ -729,10 +710,6 @@ table {
         <h4>Psalm 23:6 <br> 
         Surely your goodness and love will follow me all the days of my life, and I will dwell in the house of the Lord forever.
         </h4>
-        </p>
-        <p>
-        <h4>Cross References:</h4>
-        <br><br>
         </p>
         <h4>Reflection</h4>
         <p>
@@ -751,12 +728,6 @@ table {
         The Lord is my light and my salvation — whom shall I fear? The Lord is the stronghold of my life — of whom shall I be afraid?
         </h4>
         </p>
-        <p>
-        <h4>Cross References:</h4>
-        Isaiah 40:31<br>
-        But those who hope in the Lord will renew their strength. They will soar on wings like eagles; they will run and not grow weary, they will walk and not be 
-        faint.<br><br>
-        </p>
         <h4>Reflection</h4>
         <p>
         to be uploaded soon..
@@ -768,6 +739,64 @@ table {
        </div>
 
        <button type="button" class="collapsible" id="19">October 19, 2024 Saturday Devotion</button>
+       <div class="content">
+        <p>
+        <h4>Psalm 139:16-17 <br> 
+        Your eyes saw my unformed body; all the days ordained for me were written in your book before one of them came to be. How precious to me are your houghts, 
+        God! How vast is the sum of them!
+        </h4>
+        </p>
+        <h4>Reflection</h4>
+        <p>
+        to be uploaded soon..
+        </p>
+        <p>
+        </p>
+        <br>
+        <a href="#calendar">Back to Calendar</a>
+       </div>
+
+       <button type="button" class="collapsible" id="20">October 20, 2024 Sunday Devotion</button>
+       <div class="content">
+        <p>
+        <h4>Psalm 139:16-17 <br> 
+        Your eyes saw my unformed body; all the days ordained for me were written in your book before one of them came to be. How precious to me are your houghts, 
+        God! How vast is the sum of them!
+        </h4>
+        </p>
+        <h4>Reflection</h4>
+        <p>
+        to be uploaded soon..
+        </p>
+        <p>
+        </p>
+        <br>
+        <a href="#calendar">Back to Calendar</a>
+       </div>
+
+       <button type="button" class="collapsible" id="21">October 21, 2024 Monday Devotion</button>
+       <div class="content">
+        <p>
+        <h4>Psalm 139:16-17 <br> 
+        Your eyes saw my unformed body; all the days ordained for me were written in your book before one of them came to be. How precious to me are your houghts, 
+        God! How vast is the sum of them!
+        </h4>
+        </p>
+        <p>
+        <h4>Cross References:</h4>
+        <br><br>
+        </p>
+        <h4>Reflection</h4>
+        <p>
+        to be uploaded soon..
+        </p>
+        <p>
+        </p>
+        <br>
+        <a href="#calendar">Back to Calendar</a>
+       </div>
+
+       <button type="button" class="collapsible" id="22">October 22, 2024 Tuesday Devotion</button>
        <div class="content">
         <p>
         <h4>Psalm 139:16-17 <br> 
