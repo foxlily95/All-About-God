@@ -214,13 +214,13 @@ table {
                 <td align="center"><a href="#12">12</a></td>
             </tr>
             <tr>
-                <td align="center">13</td>
-                <td align="center">14</td>
-                <td align="center">15</td>
-                <td align="center">16</td>
-                <td align="center">17</td>
-                <td align="center">18</td>
-                <td align="center">19</td>
+                <td align="center"><a href="#13">13</a></td>
+                <td align="center"><a href="#14">14</a></td>
+                <td align="center"><a href="#15">15</a></td>
+                <td align="center"><a href="#16">16</a></td>
+                <td align="center"><a href="#17">17</a></td>
+                <td align="center"><a href="#18">18</a></td>
+                <td align="center"><a href="#19">19</a></td>
             </tr>
             <tr>
                 <td align="center">20</td>
@@ -596,6 +596,190 @@ table {
        </div>
 
       <button type="button" class="collapsible" id="11">October 11, 2024 Friday Devotion</button>
+       <div class="content">
+        <p>
+        <h4>Psalm 9:10 <br> 
+        Those who know your name trust in you, for you, LORD, have never forsaken those who seek you.
+        </h4>
+        </p>
+        <p>
+        <h4>Cross References:</h4>
+        Isaiah 40:31<br>
+        But those who hope in the Lord will renew their strength. They will soar on wings like eagles; they will run and not grow weary, they will walk and not be 
+        faint.<br><br>
+        </p>
+        <h4>Reflection</h4>
+        <p>
+        to be uploaded soon..
+        </p>
+        <p>
+        </p>
+        <br>
+        <a href="#calendar">Back to Calendar</a>
+       </div>
+
+       <button type="button" class="collapsible" id="12">October 12, 2024 Saturday Devotion</button>
+       <div class="content">
+        <p>
+        <h4>Psalm 9:10 <br> 
+        Those who know your name trust in you, for you, LORD, have never forsaken those who seek you.
+        </h4>
+        </p>
+        <p>
+        <h4>Cross References:</h4>
+        Isaiah 40:31<br>
+        But those who hope in the Lord will renew their strength. They will soar on wings like eagles; they will run and not grow weary, they will walk and not be 
+        faint.<br><br>
+        </p>
+        <h4>Reflection</h4>
+        <p>
+        to be uploaded soon..
+        </p>
+        <p>
+        </p>
+        <br>
+        <a href="#calendar">Back to Calendar</a>
+       </div>
+
+       <button type="button" class="collapsible" id="13">October 13, 2024 Sunday Devotion</button>
+       <div class="content">
+        <p>
+        <h4>Psalm 9:10 <br> 
+        Those who know your name trust in you, for you, LORD, have never forsaken those who seek you.
+        </h4>
+        </p>
+        <p>
+        <h4>Cross References:</h4>
+        Isaiah 40:31<br>
+        But those who hope in the Lord will renew their strength. They will soar on wings like eagles; they will run and not grow weary, they will walk and not be 
+        faint.<br><br>
+        </p>
+        <h4>Reflection</h4>
+        <p>
+        to be uploaded soon..
+        </p>
+        <p>
+        </p>
+        <br>
+        <a href="#calendar">Back to Calendar</a>
+       </div>
+
+       <button type="button" class="collapsible" id="14">October 14, 2024 Monday Devotion</button>
+       <div class="content">
+        <p>
+        <h4>Psalm 9:10 <br> 
+        Those who know your name trust in you, for you, LORD, have never forsaken those who seek you.
+        </h4>
+        </p>
+        <p>
+        <h4>Cross References:</h4>
+        Isaiah 40:31<br>
+        But those who hope in the Lord will renew their strength. They will soar on wings like eagles; they will run and not grow weary, they will walk and not be 
+        faint.<br><br>
+        </p>
+        <h4>Reflection</h4>
+        <p>
+        to be uploaded soon..
+        </p>
+        <p>
+        </p>
+        <br>
+        <a href="#calendar">Back to Calendar</a>
+       </div>
+
+       <button type="button" class="collapsible" id="15">October 15, 2024 Tuesday Devotion</button>
+       <div class="content">
+        <p>
+        <h4>Psalm 9:10 <br> 
+        Those who know your name trust in you, for you, LORD, have never forsaken those who seek you.
+        </h4>
+        </p>
+        <p>
+        <h4>Cross References:</h4>
+        Isaiah 40:31<br>
+        But those who hope in the Lord will renew their strength. They will soar on wings like eagles; they will run and not grow weary, they will walk and not be 
+        faint.<br><br>
+        </p>
+        <h4>Reflection</h4>
+        <p>
+        to be uploaded soon..
+        </p>
+        <p>
+        </p>
+        <br>
+        <a href="#calendar">Back to Calendar</a>
+       </div>
+
+       <button type="button" class="collapsible" id="16">October 16, 2024 Friday Wednesday</button>
+       <div class="content">
+        <p>
+        <h4>Psalm 9:10 <br> 
+        Those who know your name trust in you, for you, LORD, have never forsaken those who seek you.
+        </h4>
+        </p>
+        <p>
+        <h4>Cross References:</h4>
+        Isaiah 40:31<br>
+        But those who hope in the Lord will renew their strength. They will soar on wings like eagles; they will run and not grow weary, they will walk and not be 
+        faint.<br><br>
+        </p>
+        <h4>Reflection</h4>
+        <p>
+        to be uploaded soon..
+        </p>
+        <p>
+        </p>
+        <br>
+        <a href="#calendar">Back to Calendar</a>
+       </div>
+
+       <button type="button" class="collapsible" id="17">October 17, 2024 Thursday Devotion</button>
+       <div class="content">
+        <p>
+        <h4>Psalm 9:10 <br> 
+        Those who know your name trust in you, for you, LORD, have never forsaken those who seek you.
+        </h4>
+        </p>
+        <p>
+        <h4>Cross References:</h4>
+        Isaiah 40:31<br>
+        But those who hope in the Lord will renew their strength. They will soar on wings like eagles; they will run and not grow weary, they will walk and not be 
+        faint.<br><br>
+        </p>
+        <h4>Reflection</h4>
+        <p>
+        to be uploaded soon..
+        </p>
+        <p>
+        </p>
+        <br>
+        <a href="#calendar">Back to Calendar</a>
+       </div>
+
+       <button type="button" class="collapsible" id="18">October 18, 2024 Friday Devotion</button>
+       <div class="content">
+        <p>
+        <h4>Psalm 9:10 <br> 
+        Those who know your name trust in you, for you, LORD, have never forsaken those who seek you.
+        </h4>
+        </p>
+        <p>
+        <h4>Cross References:</h4>
+        Isaiah 40:31<br>
+        But those who hope in the Lord will renew their strength. They will soar on wings like eagles; they will run and not grow weary, they will walk and not be 
+        faint.<br><br>
+        </p>
+        <h4>Reflection</h4>
+        <p>
+        to be uploaded soon..
+        </p>
+        <p>
+        </p>
+        <br>
+        <a href="#calendar">Back to Calendar</a>
+       </div>
+
+       <button type="button" class="collapsible" id="19">October 19, 2024 Saturday Devotion</button>
        <div class="content">
         <p>
         <h4>Psalm 9:10 <br> 
