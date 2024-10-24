@@ -623,7 +623,7 @@ table {
        <div class="content">
         <p>
         <h4>Philippians 1:6<br> 
-        being confident of this, that he who began a good work in you will carry it on to completion until the day of Christ Jesus.
+        being confident of this, that He who began a good work in you will carry it on to completion until the day of Christ Jesus.
         </h4>
         </p>
         <h4>Reflection</h4>
