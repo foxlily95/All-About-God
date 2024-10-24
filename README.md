@@ -227,7 +227,7 @@ table {
                 <td align="center"><a href="#21">21</a></td>
                 <td align="center"><a href="#22">22</a></td>
                 <td align="center"><a href="#23">23</a></td>
-                <td align="center">24</td>
+                <td align="center"><a href="#24">24</a></td>
                 <td align="center">25</td>
                 <td align="center">26</td>
             </tr>
@@ -258,7 +258,7 @@ table {
         Daily Bible Devotion
         </h3>  
 </div>
-        <button type="button" class="collapsible" id="1">October 1, 2024 Tuesday Devotion</button>
+        <button type="button" class="collapsible" id="1">October 1, 2024 Tuesday Devotion | John 5:24</button>
         <div class="content">
          <p>
          <h4>John 5:24 <br> 
@@ -304,7 +304,7 @@ table {
         </div>
         </div>        
         
-      <button type="button" class="collapsible" id="2">October 2, 2024 Wednesday Devotion</button>
+      <button type="button" class="collapsible" id="2">October 2, 2024 Wednesday Devotion | 2 Corinthians 5:18-19</button>
        <div class="content">
         <p>
         <h4>2 Corinthians 5:18-19 <br> 
@@ -335,7 +335,7 @@ table {
         <a href="#calendar">Back to Calendar</a>
       </div>
 
-      <button type="button" class="collapsible" id="3">October 3, 2024 Thursday Devotion</button>
+      <button type="button" class="collapsible" id="3">October 3, 2024 Thursday Devotion | 1 John 4:16</button>
       <div class="content">
         <p>
         <h4>1 John 4:16 <br> 
@@ -363,7 +363,7 @@ table {
         <a href="#calendar">Back to Calendar</a>
        </div>
        
-      <button type="button" class="collapsible" id="4">October 4, 2024 Friday Devotion</button>
+      <button type="button" class="collapsible" id="4">October 4, 2024 Friday Devotion | Romans 5:8</button>
        <div class="content">
         <p>
         <h4>Romans 5:8 <br> 
@@ -389,7 +389,7 @@ table {
         <a href="#calendar">Back to Calendar</a>
         </div>
       
-      <button type="button" class="collapsible" id="5">October 5, 2024 Saturday Devotion</button>
+      <button type="button" class="collapsible" id="5">October 5, 2024 Saturday Devotion | 1 Corinthians 16:14</button>
        <div class="content">
         <p>
         <h4>1 Corinthians 16:14 <br> 
@@ -418,7 +418,7 @@ table {
         <a href="#calendar">Back to Calendar</a>
        </div>
 
-      <button type="button" class="collapsible" id="6">October 6, 2024 Sunday Devotion</button>
+      <button type="button" class="collapsible" id="6">October 6, 2024 Sunday Devotion | 2 Corinthians 5:17</button>
        <div class="content">
         <p>
         <h4>2 Corinthians 5:17 <br> 
@@ -454,7 +454,7 @@ table {
         <a href="#calendar">Back to Calendar</a>
        </div>
 
-      <button type="button" class="collapsible" id="7">October 7, 2024 Monday Devotion</button>
+      <button type="button" class="collapsible" id="7">October 7, 2024 Monday Devotion | Ephesians 2:10</button>
        <div class="content">
         <p>
         <h4>Ephesians 2:10 <br> 
@@ -488,7 +488,7 @@ table {
         <a href="#calendar">Back to Calendar</a>
        </div>
 
-      <button type="button" class="collapsible" id="8">October 8, 2024 Tuesday Devotion</button>
+      <button type="button" class="collapsible" id="8">October 8, 2024 Tuesday Devotion | Proverbs 4:20-22</button>
        <div class="content">
         <p>
         <h4>Proverbs 4:20-22 <br> 
@@ -522,7 +522,7 @@ table {
         <a href="#calendar">Back to Calendar</a>
        </div>
 
-      <button type="button" class="collapsible" id="9">October 9, 2024 Wednesday Devotion</button>
+      <button type="button" class="collapsible" id="9">October 9, 2024 Wednesday Devotion | 2 Corinthians 12:9-10</button>
        <div class="content">
         <p>
         <h4>2 Corinthians 12:9-10<br> 
@@ -544,27 +544,28 @@ table {
         <h4>Reflection</h4>
         <p>
         Who can be happy when problems and difficulties in life are encountered. How can someone be thankful on the occurence of different adversities in life. 
-        That is so very natural for us human.. to feel down, sad, emotional, stressed and even depressed. But if we believe in God and we hold on to our faith and 
-        to God's promises, we'll have hope. We need to keep on trusting God, that He is a faithful God and He will never leave nor forsake us - Deuteronomy 31:8
+        That is so very natural for us human.. to feel down, sad, emotional, stressed and even depressed. But if we believe in God and we hold on to our faith 
+        and to God's promises, we'll have hope. We need to keep on trusting God, that He is a faithful God and He will never leave nor forsake us - Deuteronomy 
+        31:8
         </p>
         <p>
-        Is there anything too hard for the Lord - Genesis 18:14 God created the universe and all the planets and creatures on it including us. Imagine the details 
-        and all the parts of our body and their functionalities. God carefully planned and created all these things. So do you think God does not know all our 
-        worries, problems and situations? Everything has its purpose, just try to reflect what God might be making us realize on every situation. God allows us to 
-        experience these predicament so we may be able to realize that we need God, we are nothing without God and all that we have comes from God. And so when we 
-        feel down, we can always run to our Father and we can experience His faithfulness, His goodness and love. And so we become strong through our faith in 
-        God, because we know that we have a powerful God and as it is written in Matthew 19:26: “With men this is impossible, but with God all things are 
-        possible.” 
+        Is there anything too hard for the Lord - Genesis 18:14 God created the universe and all the planets and creatures on it including us. Imagine the 
+        details and all the parts of our body and their functionalities. God carefully planned and created all these things. So do you think God does not know 
+        all our worries, problems and situations? Everything has its purpose, just try to reflect what God might be making us realize on every situation. God 
+        allows us to experience these predicament so we may be able to realize that we need God, we are nothing without God and all that we have comes from God. 
+        And so when we feel down, we can always run to our Father and we can experience His faithfulness, His goodness and love. And so we become strong through 
+        our faith in God, because we know that we have a powerful God and as it is written in Matthew 19:26: “With men this is impossible, but with God all 
+        things are possible.” 
         </p>
-        <p>We can always run to God through prayers, tell God all the things that are happening in your life and read the word of God so you may be encouraged and 
-        find peace and wisdom so you'll be guided by the Holy Spirit on what to do with your situations. God will not give you a situation that you cannot 
+        <p>We can always run to God through prayers, tell God all the things that are happening in your life and read the word of God so you may be encouraged 
+        and find peace and wisdom so you'll be guided by the Holy Spirit on what to do with your situations. God will not give you a situation that you cannot 
         surpass.. 1 Corinthians 10:13 No temptation has seized you except what is common to man. And God is faithful; He will not let you be tempted beyond what 
         you can bear. But when you are tempted, He will also provide a way out so that you can stand up under it.</p>
         <br>
         <a href="#calendar">Back to Calendar</a>
        </div>
 
-      <button type="button" class="collapsible" id="10">October 10, 2024 Thursday Devotion</button>
+      <button type="button" class="collapsible" id="10">October 10, 2024 Thursday Devotion | 2 Corinthians 9:8</button>
        <div class="content">
         <p>
         <h4>2 Corinthians 9:8 <br> 
@@ -581,10 +582,10 @@ table {
         </p>
         <h4>Reflection</h4>
         <p>
-        Do you believe that everything that we have came from God? We owe everything to God, we don't possess anything in this world. God gave us all these things 
-        so we may live and surpass everyday's challenges and situations. God blesses us these things so we may use it for His glory and for good works. And when 
-        He blesses us more and abundantly and more than we have prayed for, it's because God saw our generous heart and He want to use us as His channel of 
-        blessings to others. 
+        Do you believe that everything that we have came from God? We owe everything to God, we don't possess anything in this world. God gave us all these 
+        things so we may live and surpass everyday's challenges and situations. God blesses us these things so we may use it for His glory and for good works. 
+        And when He blesses us more and abundantly and more than we have prayed for, it's because God saw our generous heart and He want to use us as His channel 
+        of blessings to others. 
         </p>
         <p>
         Be thankful for all the blessings that we received from God may it be small or big for every good and perfect gift is from above (James 1:17). And let us 
@@ -595,7 +596,7 @@ table {
         <a href="#calendar">Back to Calendar</a>
        </div>
 
-      <button type="button" class="collapsible" id="11">October 11, 2024 Friday Devotion</button>
+      <button type="button" class="collapsible" id="11">October 11, 2024 Friday Devotion | Psalm 9:10</button>
        <div class="content">
         <p>
         <h4>Psalm 9:10 <br> 
@@ -605,8 +606,8 @@ table {
         <p>
         <h4>Cross References:</h4>
         Isaiah 40:31<br>
-        But those who hope in the Lord will renew their strength. They will soar on wings like eagles; they will run and not grow weary, they will walk and not be 
-        faint.<br><br>
+        But those who hope in the Lord will renew their strength. They will soar on wings like eagles; they will run and not grow weary, they will walk and not 
+        be faint.<br><br>
         </p>
         <h4>Reflection</h4>
         <p>
@@ -618,7 +619,7 @@ table {
         <a href="#calendar">Back to Calendar</a>
        </div>
 
-       <button type="button" class="collapsible" id="12">October 12, 2024 Saturday Devotion</button>
+       <button type="button" class="collapsible" id="12">October 12, 2024 Saturday Devotion | Philippians 1:6</button>
        <div class="content">
         <p>
         <h4>Philippians 1:6<br> 
@@ -635,7 +636,7 @@ table {
         <a href="#calendar">Back to Calendar</a>
        </div>
 
-       <button type="button" class="collapsible" id="13">October 13, 2024 Sunday Devotion</button>
+       <button type="button" class="collapsible" id="13">October 13, 2024 Sunday Devotion | Isaiah 40:31</button>
        <div class="content">
         <p>
         <h4>Isaiah 40:31 <br> 
@@ -653,7 +654,7 @@ table {
         <a href="#calendar">Back to Calendar</a>
        </div>
 
-       <button type="button" class="collapsible" id="14">October 14, 2024 Monday Devotion</button>
+       <button type="button" class="collapsible" id="14">October 14, 2024 Monday Devotion | John 16:33</button>
        <div class="content">
         <p>
         <h4>John 16:33 <br> 
@@ -670,7 +671,7 @@ table {
         <a href="#calendar">Back to Calendar</a>
        </div>
 
-       <button type="button" class="collapsible" id="15">October 15, 2024 Tuesday Devotion</button>
+       <button type="button" class="collapsible" id="15">October 15, 2024 Tuesday Devotion | 2 Corinthians 5:17</button>
        <div class="content">
         <p>
         <h4>2 Corinthians 5:17 <br> 
@@ -687,7 +688,7 @@ table {
         <a href="#calendar">Back to Calendar</a>
        </div>
 
-       <button type="button" class="collapsible" id="16">October 16, 2024 Wednesday Devotion</button>
+       <button type="button" class="collapsible" id="16">October 16, 2024 Wednesday Devotion | 1 John 1:9</button>
        <div class="content">
         <p>
         <h4>1 John 1:9 <br> 
@@ -704,7 +705,7 @@ table {
         <a href="#calendar">Back to Calendar</a>
        </div>
 
-       <button type="button" class="collapsible" id="17">October 17, 2024 Thursday Devotion</button>
+       <button type="button" class="collapsible" id="17">October 17, 2024 Thursday Devotion | Psalm 23:6</button>
        <div class="content">
         <p>
         <h4>Psalm 23:6 <br> 
@@ -721,7 +722,7 @@ table {
         <a href="#calendar">Back to Calendar</a>
        </div>
 
-       <button type="button" class="collapsible" id="18">October 18, 2024 Friday Devotion</button>
+       <button type="button" class="collapsible" id="18">October 18, 2024 Friday Devotion | Psalm 27:1</button>
        <div class="content">
         <p>
         <h4>Psalm 27:1 <br> 
@@ -738,12 +739,12 @@ table {
         <a href="#calendar">Back to Calendar</a>
        </div>
 
-       <button type="button" class="collapsible" id="19">October 19, 2024 Saturday Devotion</button>
+       <button type="button" class="collapsible" id="19">October 19, 2024 Saturday Devotion | Psalm 139:16-17</button>
        <div class="content">
         <p>
         <h4>Psalm 139:16-17 <br> 
-        Your eyes saw my unformed body; all the days ordained for me were written in your book before one of them came to be. How precious to me are your houghts, 
-        God! How vast is the sum of them!
+        Your eyes saw my unformed body; all the days ordained for me were written in your book before one of them came to be. How precious to me are your 
+        thoughts, God! How vast is the sum of them!
         </h4>
         </p>
         <h4>Reflection</h4>
@@ -756,7 +757,7 @@ table {
         <a href="#calendar">Back to Calendar</a>
        </div>
 
-       <button type="button" class="collapsible" id="20">October 20, 2024 Sunday Devotion</button>
+       <button type="button" class="collapsible" id="20">October 20, 2024 Sunday Devotion | Psalm 55:22</button>
        <div class="content">
         <p>
         <h4>Psalm 55:22 <br> 
@@ -773,7 +774,7 @@ table {
         <a href="#calendar">Back to Calendar</a>
        </div>
 
-       <button type="button" class="collapsible" id="21">October 21, 2024 Monday Devotion</button>
+       <button type="button" class="collapsible" id="21">October 21, 2024 Monday Devotion | Psalm 31:24</button>
        <div class="content">
         <p>
         <h4>Psalm 31:24 <br> 
@@ -794,7 +795,7 @@ table {
         <a href="#calendar">Back to Calendar</a>
        </div>
 
-       <button type="button" class="collapsible" id="22">October 22, 2024 Tuesday Devotion</button>
+       <button type="button" class="collapsible" id="22">October 22, 2024 Tuesday Devotion | Romans 15:13</button>
        <div class="content">
         <p>
         <h4>Romans 15:13 <br> 
@@ -811,11 +812,28 @@ table {
         <a href="#calendar">Back to Calendar</a>
        </div>
 
-       <button type="button" class="collapsible" id="23">October 23, 2024 Wednesday Devotion</button>
+       <button type="button" class="collapsible" id="23">October 23, 2024 Wednesday Devotion | Isaiah 26:3</button>
        <div class="content">
         <p>
         <h4>Isaiah 26:3 <br> 
         You will keep in perfect peace those whose minds are steadfast, because they trust in you.
+        </h4>
+        </p>
+        <h4>Reflection</h4>
+        <p>
+        to be uploaded soon..
+        </p>
+        <p>
+        </p>
+        <br>
+        <a href="#calendar">Back to Calendar</a>
+       </div>
+
+       <button type="button" class="collapsible" id="24">October 24, 2024 Thursday Devotion | Psalm 91:2</button>
+       <div class="content">
+        <p>
+        <h4>Psalm 91:2 <br> 
+        I will say of the Lord, “He is my refuge and my fortress, my God, in whom I trust.”
         </h4>
         </p>
         <h4>Reflection</h4>
