@@ -232,7 +232,7 @@ table {
                 <td align="center"><a href="#26">26</a></td>
             </tr>
             <tr>
-                <td align="center">27</td>
+                <td align="center"><a href="#27">27</a></td>
                 <td align="center">28</td>
                 <td align="center">29</td>
                 <td align="center">30</td>
@@ -872,6 +872,23 @@ table {
         <h4>Isaiah 40:31 <br> 
         But those who hope in the Lord will renew their strength. They will soar on wings like eagles; they will run and not grow weary, they will walk and not 
         be faint.
+        </h4>
+        </p>
+        <h4>Reflection</h4>
+        <p>
+        to be uploaded soon..
+        </p>
+        <p>
+        </p>
+        <br>
+        <a href="#calendar">Back to Calendar</a>
+       </div>
+
+       <button type="button" class="collapsible" id="27">October 27, 2024 Sunday Devotion | Romans 8:28</button>
+       <div class="content">
+        <p>
+        <h4>Romans 8:28 <br> 
+        And we know that in all things God works for the good of those who love him, who have been called according to his purpose.
         </h4>
         </p>
         <h4>Reflection</h4>
