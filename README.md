@@ -228,7 +228,7 @@ table {
                 <td align="center"><a href="#22">22</a></td>
                 <td align="center"><a href="#23">23</a></td>
                 <td align="center"><a href="#24">24</a></td>
-                <td align="center">25</td>
+                <td align="center"><a href="#25">25</a></td>
                 <td align="center">26</td>
             </tr>
             <tr>
@@ -508,15 +508,15 @@ table {
         <p>
         As Christians and believers of God, we should not forget or neglect to read and reflect on His word. Make it a habbit everyday to read even at least one 
         verse from the Bible so we may be guided by His words and we may apply it and guard our thoughts, our heart and intention, our words and actions. If we 
-        want to live in peace, we should understand the word of God. Moreover, it will make us wise and more understanding; and we will be able to handle and deal 
-        everything with love and humility and gentleness. As we read and practice the word of God everyday, the fruit of the Holy Spirit becomes evident in our 
-        life and it brings healing to our soul,  our mind and our body as well because we can fully trust God and surrender everything to Him 
+        want to live in peace, we should understand the word of God. Moreover, it will make us wise and more understanding; and we will be able to handle and 
+        deal everything with love and humility and gentleness. As we read and practice the word of God everyday, the fruit of the Holy Spirit becomes evident in 
+        our life and it brings healing to our soul,  our mind and our body as well because we can fully trust God and surrender everything to Him 
         </p>
         <p>
-        We get to know more about God as we meditate on His word day and night, understand His purpose on our life and we'll have a deeper connection with Him. We 
-        may sometimes find the word of God difficult to understand but we can pray and ask for the Holy Spirit to help us understand God's word. We may also look 
-        for Bible studies, lessons and reflections so we may learn more about the Word of God and/or attend Bible talks and have some fellowship with the brothers 
-        and sisters from the church and gain insights from them 
+        We get to know more about God as we meditate on His word day and night, understand His purpose on our life and we'll have a deeper connection with Him. 
+        We may sometimes find the word of God difficult to understand but we can pray and ask for the Holy Spirit to help us understand God's word. We may also 
+        look for Bible studies, lessons and reflections so we may learn more about the Word of God and/or attend Bible talks and have some fellowship with the 
+        brothers and sisters from the church and gain insights from them 
         </p>
         <br>
         <a href="#calendar">Back to Calendar</a>
@@ -671,11 +671,11 @@ table {
         <a href="#calendar">Back to Calendar</a>
        </div>
 
-       <button type="button" class="collapsible" id="15">October 15, 2024 Tuesday Devotion | 2 Corinthians 5:17</button>
+       <button type="button" class="collapsible" id="15">October 15, 2024 Tuesday Devotion | Psalm 91:2</button>
        <div class="content">
         <p>
-        <h4>2 Corinthians 5:17 <br> 
-        Therefore, if anyone is in Christ, the new creation has come: The old has gone, the new is here!
+        <h4>Psalm 91:2 <br> 
+        I will say of the Lord, “He is my refuge and my fortress, my God, in whom I trust.”
         </h4>
         </p>
         <h4>Reflection</h4>
@@ -833,7 +833,26 @@ table {
        <div class="content">
         <p>
         <h4>Psalm 91:2 <br> 
-        I will say of the Lord, “He is my refuge and my fortress, my God, in whom I trust.”
+        This is love: not that we loved God, but that he loved us and sent his Son as an atoning sacrifice for our sins. Dear friends, since God so loved us, we 
+        also ought to love one another. No one has ever seen God; but if we love one another, God lives in us and his love is made complete in us.
+        </h4>
+        </p>
+        <h4>Reflection</h4>
+        <p>
+        to be uploaded soon..
+        </p>
+        <p>
+        </p>
+        <br>
+        <a href="#calendar">Back to Calendar</a>
+       </div>
+
+       <button type="button" class="collapsible" id="25">October 25, 2024 Friday Devotion | James 3:17</button>
+       <div class="content">
+        <p>
+        <h4>James 3:17 <br> 
+        But the wisdom that comes from heaven is first of all pure; then peace-loving, considerate, submissive, full of mercy and good fruit, impartial and 
+        sincere.
         </h4>
         </p>
         <h4>Reflection</h4>
