@@ -229,7 +229,7 @@ table {
                 <td align="center"><a href="#23">23</a></td>
                 <td align="center"><a href="#24">24</a></td>
                 <td align="center"><a href="#25">25</a></td>
-                <td align="center">26</td>
+                <td align="center"><a href="#26">26</a></td>
             </tr>
             <tr>
                 <td align="center">27</td>
@@ -604,10 +604,11 @@ table {
         </h4>
         </p>
         <p>
-        <h4>Cross References:</h4>
-        Isaiah 40:31<br>
-        But those who hope in the Lord will renew their strength. They will soar on wings like eagles; they will run and not grow weary, they will walk and not 
-        be faint.<br><br>
+        Keypoints:<br>
+        1. Those who know Your name<br>
+        2. Trust in You<br>
+        3. You have never forsaken<br>
+        4. Those who seek You<br>
         </p>
         <h4>Reflection</h4>
         <p>
@@ -853,6 +854,24 @@ table {
         <h4>James 3:17 <br> 
         But the wisdom that comes from heaven is first of all pure; then peace-loving, considerate, submissive, full of mercy and good fruit, impartial and 
         sincere.
+        </h4>
+        </p>
+        <h4>Reflection</h4>
+        <p>
+        to be uploaded soon..
+        </p>
+        <p>
+        </p>
+        <br>
+        <a href="#calendar">Back to Calendar</a>
+       </div>
+
+       <button type="button" class="collapsible" id="26">October 26, 2024 Saturday Devotion | Isaiah 40:31</button>
+       <div class="content">
+        <p>
+        <h4>Isaiah 40:31 <br> 
+        But those who hope in the Lord will renew their strength. They will soar on wings like eagles; they will run and not grow weary, they will walk and not 
+        be faint.
         </h4>
         </p>
         <h4>Reflection</h4>
